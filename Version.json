@@ -1,1 +1,14 @@
-teset
+{
+  "version": "0.2.2",
+  "release_date": "2026-02-10",
+  "download_url": "https://github.com/YOUR_USERNAME/smart-assistant/releases/download/v0.2.1/SMART_Assistant.exe",
+  "release_notes": "User deactivation, batch operations, standards scanning, auto-updates",
+  "minimum_version": "0.2.0",
+  "changelog": [
+    "User deactivation with scan functionality",
+    "Batch deactivation from spreadsheet",
+    "User standards compliance scanning",
+    "Auto-update system",
+    "Dark/Light theme support"
+  ]
+}
