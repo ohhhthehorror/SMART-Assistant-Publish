@@ -1,15 +1,10 @@
 {
-  "version": "v0.2.10",
+  "version": "v0.2.11",
   "release_date": "2026-02-11",
   "download_url": "https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.10/SMART_Assistant.exe",
   "release_notes": "Version 0.2.10 - Multiple bug fixes and improvements",
   "minimum_version": "0.2.0",
   "changelog": [
-    "Fixed auto-update launch issue",
-    "Moved version number to top left",
-    "Fixed popup sizing issues",
-    "Added stop scan button to standards scan",
-    "Improved Chrome close handling",
-    "Better error handling throughout"
+    "test for updater"
   ]
 }
