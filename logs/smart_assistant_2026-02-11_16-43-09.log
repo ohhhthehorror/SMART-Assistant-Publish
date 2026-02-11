@@ -1,0 +1,14 @@
+2026-02-11 16:43:09,198 [INFO] [ICON] Setting window icon...
+2026-02-11 16:43:09,199 [INFO] [ICON] Set Windows AppUserModelID
+2026-02-11 16:43:09,203 [INFO] [ICON] Trying 3 icon paths...
+2026-02-11 16:43:09,203 [INFO] [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-11 16:43:09,203 [INFO] [ICON] ❌ Not found at path 1
+2026-02-11 16:43:09,203 [INFO] [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI117122\smartlogosmall.png
+2026-02-11 16:43:09,203 [INFO] [ICON] ❌ Not found at path 2
+2026-02-11 16:43:09,203 [INFO] [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\SMART-Assistant-Publish\smartlogosmall.png
+2026-02-11 16:43:09,204 [INFO] [ICON] ✅ Found icon at path 3
+2026-02-11 16:43:09,272 [INFO] [ICON] ✅ Loaded image: (64, 79) PNG
+2026-02-11 16:43:09,273 [INFO] [ICON] ✅ Resized to 32x32 for better quality
+2026-02-11 16:43:09,317 [INFO] [ICON] ✅ Created PhotoImage
+2026-02-11 16:43:09,319 [INFO] [ICON] ✅ Called iconphoto()
+2026-02-11 16:43:09,319 [INFO] [ICON] ✅ Stored reference
