@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "release_date": "2026-02-10",
   "download_url": "https://github.com/YOUR_USERNAME/smart-assistant/releases/download/v0.2.1/SMART_Assistant.exe",
   "release_notes": "User deactivation, batch operations, standards scanning, auto-updates",
