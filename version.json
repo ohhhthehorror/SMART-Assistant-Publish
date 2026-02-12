@@ -1,10 +1,13 @@
 {
-  "version": "v0.2.14",
-  "release_date": "2026-02-11",
+  "version": "v0.2.17",
+  "release_date": "2026-02-12",
   "download_url": "https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.10/SMART_Assistant.exe",
   "release_notes": "Version 0.2.14 - Multiple bug fixes and improvements",
   "minimum_version": "0.2.0",
   "changelog": [
-    "test for updater"
+    "Various UI / UX corrections", 
+    "User Deactivation Scan corrections", 
+    "updated default automation speed and verification to all functions", 
+    "updated Progress bar accuracy settings"
   ]
 }
