@@ -1,11 +1,10 @@
 {
-  "version": "v0.2.22",
-  "release_date": "2026-02-13",
+  "version": "v0.2.23",
+  "release_date": "2026-02-20",
   "download_url": "https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.10/SMART_Assistant.exe",
-  "release_notes": "Version 0.2.21 - Multiple bug fixes and improvements",
+  "release_notes": "Version 0.2.223",
   "minimum_version": "0.2.0",
   "changelog": [
-    "Various UI / UX corrections", 
-    "Updated Stop Scan"
+    "Correction to global automation selection"
   ]
 }
