@@ -1,10 +1,10 @@
 {
-  "version": "v0.2.23",
+  "version": "v0.2.24",
   "release_date": "2026-02-20",
   "download_url": "https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.10/SMART_Assistant.exe",
-  "release_notes": "Version 0.2.223",
+  "release_notes": "Version 0.2.24",
   "minimum_version": "0.2.0",
   "changelog": [
-    "Correction to global automation selection"
+    "Update environment selector and functionality"
   ]
 }
