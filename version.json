@@ -1,20 +1,19 @@
 {
-  "version": "0.2.27",
+  "version": "0.2.28",
   "release_date": "2024-02-25",
-  "release_notes": "Enhanced logging system and UI improvements",
+  "release_notes": "Fixed update dialog with scrollable release notes",
   "changes": [
-    "Added comprehensive logging to file and console (smart_assistant.log)",
-    "Version number moved to bottom left corner of main menu",
-    "Settings panel moved to bottom right corner of main menu",
-    "Environment selector moved from login screen to settings panel",
-    "Increased automation speed base timings for more visible speed control",
-    "Enhanced version comparison logging for update troubleshooting",
-    "Fixed Quick Links header (removed duplicate version display)",
-    "All automation delays now properly respect global speed multiplier",
-    "Added detailed logging for: startup, settings, updates, scans, downloads"
+    "Fixed update available dialog - release notes now scrollable",
+    "Increased dialog size to 600x500 for better readability",
+    "Added proper header with update icon",
+    "Version info now highlighted with accent color",
+    "Buttons always visible at bottom regardless of release notes length",
+    "Release notes displayed in read-only scrollable text area",
+    "Dark mode support for release notes text area"
   ],
   "features": {
     "auto_update": true,
+    "scrollable_release_notes": true,
     "logging": true,
     "environment_selector": true,
     "speed_control": true,
@@ -52,6 +51,7 @@
     "latest_release_api": "https://api.github.com/repos/YourUser/YourRepo/releases/latest"
   },
   "changelog_summary": {
+    "v0.2.28": "Fixed update dialog with scrollable release notes",
     "v0.2.27": "Enhanced logging and UI layout improvements",
     "v0.2.26": "Increased automation timing base values for better speed control visibility",
     "v0.2.25": "UI layout adjustments and speed timing updates",
@@ -60,7 +60,6 @@
     "v0.2.22": "Added environment selection (Production/PreProd)",
     "v0.2.21": "Settings panel reorganization and integrated version/stop buttons",
     "v0.2.20": "Background removal attempts and UI integration",
-    "v0.2.19": "Multi-monitor popup positioning fixes",
-    "v0.2.18": "Initial background removal attempt for labels"
+    "v0.2.19": "Multi-monitor popup positioning fixes"
   }
 }
