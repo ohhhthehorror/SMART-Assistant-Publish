@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.3",
+  "version": "v0.2.30",
   "release_date": "2026-02-25",
   "download_url": "https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.10/SMART_Assistant.exe",
-  "release_notes": "Version 0.2.3",
+  "release_notes": "Version 0.2.30",
   "minimum_version": "0.2.0",
   "changelog": [
     "UI/UX & Global automation speed settings"
