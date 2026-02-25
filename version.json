@@ -1,16 +1,32 @@
 {
-  "version": "0.2.28",
+  "version": "0.2.29",
   "release_date": "2024-02-25",
-  "release_notes": "Fixed update dialog with scrollable release notes",
+  "release_notes": "Changed default automation speed to 50% slower",
   "changes": [
-    "Fixed update available dialog - release notes now scrollable",
-    "Increased dialog size to 600x500 for better readability",
-    "Added proper header with update icon",
-    "Version info now highlighted with accent color",
-    "Buttons always visible at bottom regardless of release notes length",
-    "Release notes displayed in read-only scrollable text area",
-    "Dark mode support for release notes text area"
+    "Default automation speed changed from 20% slower to 50% slower",
+    "1x speed now equals 0.67 multiplier (was 1.2)",
+    "All automation delays are now 50% longer by default",
+    "Speed selector still shows '1x' as default",
+    "Speed map updated: 0.25x=0.17, 0.5x=0.33, 0.75x=0.50, 1x=0.67, 1.25x=0.84, 1.5x=1.0, 1.75x=1.17, 2x=1.33",
+    "1.5x speed is now equivalent to original unmodified speed",
+    "Provides more stable and reliable automation by default"
   ],
+  "speed_details": {
+    "default_setting": "1x",
+    "default_multiplier": 0.67,
+    "meaning": "50% slower than unmodified automation",
+    "example": "0.3s base delay becomes 0.45s actual wait (0.3 / 0.67)",
+    "speed_comparison": {
+      "0.25x": "Very slow (0.17 multiplier)",
+      "0.5x": "Slow (0.33 multiplier)",
+      "0.75x": "Slightly slow (0.50 multiplier)",
+      "1x": "Default - 50% slower (0.67 multiplier)",
+      "1.25x": "Slightly faster (0.84 multiplier)",
+      "1.5x": "Original unmodified speed (1.0 multiplier)",
+      "1.75x": "Faster (1.17 multiplier)",
+      "2x": "Fastest (1.33 multiplier)"
+    }
+  },
   "features": {
     "auto_update": true,
     "scrollable_release_notes": true,
@@ -27,6 +43,7 @@
   "settings": {
     "automation_speeds": ["0.25x", "0.5x", "0.75x", "1x", "1.25x", "1.5x", "1.75x", "2x"],
     "default_speed": "1x",
+    "default_multiplier": 0.67,
     "environments": ["Production", "PreProd"],
     "default_environment": "Production",
     "chrome_modes": ["Headless", "Visible"],
@@ -51,15 +68,13 @@
     "latest_release_api": "https://api.github.com/repos/YourUser/YourRepo/releases/latest"
   },
   "changelog_summary": {
+    "v0.2.29": "Default automation speed changed to 50% slower for better stability",
     "v0.2.28": "Fixed update dialog with scrollable release notes",
     "v0.2.27": "Enhanced logging and UI layout improvements",
     "v0.2.26": "Increased automation timing base values for better speed control visibility",
     "v0.2.25": "UI layout adjustments and speed timing updates",
     "v0.2.24": "Environment selector moved to settings, all URLs now environment-aware",
     "v0.2.23": "All automation speeds now use global multiplier",
-    "v0.2.22": "Added environment selection (Production/PreProd)",
-    "v0.2.21": "Settings panel reorganization and integrated version/stop buttons",
-    "v0.2.20": "Background removal attempts and UI integration",
-    "v0.2.19": "Multi-monitor popup positioning fixes"
+    "v0.2.22": "Added environment selection (Production/PreProd)"
   }
 }
