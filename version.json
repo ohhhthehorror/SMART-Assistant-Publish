@@ -1,10 +1,66 @@
 {
-  "version": "v0.2.26",
-  "release_date": "2026-02-25",
-  "download_url": "https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.10/SMART_Assistant.exe",
-  "release_notes": "Version 0.2.26",
-  "minimum_version": "0.2.0",
-  "changelog": [
-    "UI/UX & Global automation speed settings"
-  ]
+  "version": "0.2.27",
+  "release_date": "2024-02-25",
+  "release_notes": "Enhanced logging system and UI improvements",
+  "changes": [
+    "Added comprehensive logging to file and console (smart_assistant.log)",
+    "Version number moved to bottom left corner of main menu",
+    "Settings panel moved to bottom right corner of main menu",
+    "Environment selector moved from login screen to settings panel",
+    "Increased automation speed base timings for more visible speed control",
+    "Enhanced version comparison logging for update troubleshooting",
+    "Fixed Quick Links header (removed duplicate version display)",
+    "All automation delays now properly respect global speed multiplier",
+    "Added detailed logging for: startup, settings, updates, scans, downloads"
+  ],
+  "features": {
+    "auto_update": true,
+    "logging": true,
+    "environment_selector": true,
+    "speed_control": true,
+    "headless_mode": true,
+    "user_scans": true,
+    "standards_scans": true,
+    "batch_deactivation": true,
+    "spreadsheet_import": true,
+    "immediate_scan_stop": true
+  },
+  "settings": {
+    "automation_speeds": ["0.25x", "0.5x", "0.75x", "1x", "1.25x", "1.5x", "1.75x", "2x"],
+    "default_speed": "1x",
+    "environments": ["Production", "PreProd"],
+    "default_environment": "Production",
+    "chrome_modes": ["Headless", "Visible"],
+    "default_chrome_mode": "Headless"
+  },
+  "requirements": {
+    "python": "3.8+",
+    "selenium": "4.0+",
+    "openpyxl": "3.0+",
+    "requests": "2.25+",
+    "pillow": "9.0+"
+  },
+  "files": {
+    "main": "SMART_ASSISTANT_FINAL.py",
+    "updater": "auto_updater.py",
+    "build_script": "BUILD_EXE.bat",
+    "executable": "SMART_Assistant.exe"
+  },
+  "github": {
+    "repo": "YourUser/YourRepo",
+    "releases_url": "https://github.com/YourUser/YourRepo/releases",
+    "latest_release_api": "https://api.github.com/repos/YourUser/YourRepo/releases/latest"
+  },
+  "changelog_summary": {
+    "v0.2.27": "Enhanced logging and UI layout improvements",
+    "v0.2.26": "Increased automation timing base values for better speed control visibility",
+    "v0.2.25": "UI layout adjustments and speed timing updates",
+    "v0.2.24": "Environment selector moved to settings, all URLs now environment-aware",
+    "v0.2.23": "All automation speeds now use global multiplier",
+    "v0.2.22": "Added environment selection (Production/PreProd)",
+    "v0.2.21": "Settings panel reorganization and integrated version/stop buttons",
+    "v0.2.20": "Background removal attempts and UI integration",
+    "v0.2.19": "Multi-monitor popup positioning fixes",
+    "v0.2.18": "Initial background removal attempt for labels"
+  }
 }
