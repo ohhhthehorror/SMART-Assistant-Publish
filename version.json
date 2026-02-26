@@ -1,70 +1,105 @@
 {
-  "version": "0.2.30",
-  "release_date": "2024-02-25",
-  "release_notes": "CRITICAL FIX - Update dialog buttons now visible",
+  "version": "0.2.40",
+  "release_date": "2026-02-26",
+  "release_notes": "Added BBB/SMS Add Users with Remember Me login and speed system overhaul",
   "changes": [
-    "CRITICAL FIX: Update dialog buttons were hidden in v0.2.28",
-    "Fixed scrollable text area to not expand and cover buttons",
-    "Set explicit height for notes frame (200px)",
-    "Added pack_propagate(False) to prevent frame shrinking",
-    "Buttons now always visible at bottom of dialog",
-    "Scrollable release notes working properly",
-    "Apologies for the v0.2.28 issue - fixed now!"
+    "Added BBB Add User functionality with spreadsheet upload",
+    "Added SMS Add User functionality with spreadsheet upload",
+    "Added editable user table with checkboxes for selection",
+    "Added Remember Me checkbox to login screen",
+    "Saved credentials stored in settings file",
+    "Complete speed system overhaul - 1x = 1.0 multiplier (no change)",
+    "Base timings: Tabs 0.5s, Text 0.1s, Clicks 1s, Pages 3s",
+    "Added non-headless mode warnings to all Chrome functions",
+    "BBB and SMS both navigate to add user form (9 tabs)",
+    "Position and role validation lists added for BBB",
+    "Form automation ready for completion"
   ],
-  "bugfix_details": {
-    "issue": "Update dialog in v0.2.28 had scrollable notes but no buttons",
-    "cause": "ScrolledText frame was using expand=True and taking all space",
-    "fix": "Set fixed height=200px for notes frame, disabled expansion",
-    "status": "RESOLVED"
-  },
   "features": {
-    "auto_update": true,
-    "scrollable_release_notes": true,
-    "visible_update_buttons": true,
-    "logging": true,
-    "environment_selector": true,
-    "speed_control": true,
-    "headless_mode": true,
-    "user_scans": true,
-    "standards_scans": true,
-    "batch_deactivation": true,
-    "spreadsheet_import": true,
-    "immediate_scan_stop": true
+    "user_deactivation": {
+      "description": "Scan and deactivate inactive users",
+      "scan_capabilities": [
+        "Multi-page scanning with progress tracking",
+        "Last login detection",
+        "Configurable inactivity threshold",
+        "Stop scan anytime",
+        "Export results to Excel"
+      ],
+      "batch_deactivation": [
+        "Upload spreadsheet with users",
+        "Select users to deactivate",
+        "Add ticket numbers per user",
+        "Automated bulk deactivation"
+      ]
+    },
+    "add_users": {
+      "description": "Add users from spreadsheet",
+      "systems": ["BBB", "SMS"],
+      "capabilities": [
+        "Upload Excel spreadsheet",
+        "Editable user table",
+        "Select/deselect users with checkboxes",
+        "Position and role validation",
+        "Navigate to add user form"
+      ]
+    },
+    "standards_scans": {
+      "description": "Compliance checking",
+      "checks": [
+        "Username format validation",
+        "Job title compliance"
+      ]
+    },
+    "login": {
+      "remember_me": true,
+      "credential_storage": "encrypted in settings file",
+      "auto_fill": true
+    }
   },
   "settings": {
-    "automation_speeds": ["0.25x", "0.5x", "0.75x", "1x", "1.25x", "1.5x", "1.75x", "2x"],
-    "default_speed": "1x",
-    "default_multiplier": 0.67,
-    "environments": ["Production", "PreProd"],
-    "default_environment": "Production",
-    "chrome_modes": ["Headless", "Visible"],
-    "default_chrome_mode": "Headless"
+    "theme": ["Light Mode", "Dark Mode"],
+    "chrome_mode": ["Headless (Invisible)", "Visible"],
+    "automation_speed": ["0.25x", "0.5x", "0.75x", "1x", "1.25x", "1.5x", "1.75x", "2x"],
+    "environment": ["Production", "PreProd"],
+    "remember_credentials": true
   },
-  "requirements": {
-    "python": "3.8+",
-    "selenium": "4.0+",
-    "openpyxl": "3.0+",
-    "requests": "2.25+",
-    "pillow": "9.0+"
+  "speed_system": {
+    "multipliers": {
+      "0.25x": 0.25,
+      "0.5x": 0.5,
+      "0.75x": 0.75,
+      "1x": 1.0,
+      "1.25x": 1.25,
+      "1.5x": 1.5,
+      "1.75x": 1.75,
+      "2x": 2.0
+    },
+    "base_timings": {
+      "tabs": "0.5s",
+      "text_entry": "0.1s",
+      "clicks": "1.0s",
+      "page_loads": "3.0s"
+    }
   },
-  "files": {
-    "main": "SMART_ASSISTANT_FINAL.py",
-    "updater": "auto_updater.py",
-    "build_script": "BUILD_EXE.bat",
-    "executable": "SMART_Assistant.exe"
-  },
+  "requirements": [
+    "selenium",
+    "openpyxl",
+    "Pillow",
+    "requests"
+  ],
+  "files": [
+    "SMART_ASSISTANT_FINAL.py",
+    "auto_updater.py",
+    "version.json"
+  ],
   "github": {
-    "repo": "YourUser/YourRepo",
-    "releases_url": "https://github.com/YourUser/YourRepo/releases",
-    "latest_release_api": "https://api.github.com/repos/YourUser/YourRepo/releases/latest"
+    "repo": "your-repo-here",
+    "download_url": "https://github.com/your-repo/releases/latest"
   },
   "changelog_summary": {
-    "v0.2.30": "CRITICAL FIX - Update dialog buttons now visible",
-    "v0.2.29": "Default automation speed changed to 50% slower for better stability",
-    "v0.2.28": "Fixed update dialog with scrollable release notes (buttons broken)",
-    "v0.2.27": "Enhanced logging and UI layout improvements",
-    "v0.2.26": "Increased automation timing base values for better speed control visibility",
-    "v0.2.25": "UI layout adjustments and speed timing updates",
-    "v0.2.24": "Environment selector moved to settings, all URLs now environment-aware"
+    "0.2.40": "BBB/SMS Add Users + Remember Me login + Speed overhaul",
+    "0.2.30": "Update dialog fixes + 50% slower default speed",
+    "0.2.27": "Comprehensive logging system",
+    "0.2.26": "Increased base timings for speed control"
   }
 }
