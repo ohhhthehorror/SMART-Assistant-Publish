@@ -1,10 +1,105 @@
 {
-  "version": "v0.2.15",
-  "release_date": "2026-02-11",
-  "download_url": "https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.10/SMART_Assistant.exe",
-  "release_notes": "Version 0.2.15 - Multiple bug fixes and improvements",
-  "minimum_version": "0.2.0",
-  "changelog": [
-    "test for updater"
-  ]
+  "version": "0.2.40",
+  "release_date": "2026-02-26",
+  "release_notes": "Added BBB/SMS Add Users with Remember Me login and speed system overhaul",
+  "changes": [
+    "Added BBB Add User functionality with spreadsheet upload",
+    "Added SMS Add User functionality with spreadsheet upload",
+    "Added editable user table with checkboxes for selection",
+    "Added Remember Me checkbox to login screen",
+    "Saved credentials stored in settings file",
+    "Complete speed system overhaul - 1x = 1.0 multiplier (no change)",
+    "Base timings: Tabs 0.5s, Text 0.1s, Clicks 1s, Pages 3s",
+    "Added non-headless mode warnings to all Chrome functions",
+    "BBB and SMS both navigate to add user form (9 tabs)",
+    "Position and role validation lists added for BBB",
+    "Form automation ready for completion"
+  ],
+  "features": {
+    "user_deactivation": {
+      "description": "Scan and deactivate inactive users",
+      "scan_capabilities": [
+        "Multi-page scanning with progress tracking",
+        "Last login detection",
+        "Configurable inactivity threshold",
+        "Stop scan anytime",
+        "Export results to Excel"
+      ],
+      "batch_deactivation": [
+        "Upload spreadsheet with users",
+        "Select users to deactivate",
+        "Add ticket numbers per user",
+        "Automated bulk deactivation"
+      ]
+    },
+    "add_users": {
+      "description": "Add users from spreadsheet",
+      "systems": ["BBB", "SMS"],
+      "capabilities": [
+        "Upload Excel spreadsheet",
+        "Editable user table",
+        "Select/deselect users with checkboxes",
+        "Position and role validation",
+        "Navigate to add user form"
+      ]
+    },
+    "standards_scans": {
+      "description": "Compliance checking",
+      "checks": [
+        "Username format validation",
+        "Job title compliance"
+      ]
+    },
+    "login": {
+      "remember_me": true,
+      "credential_storage": "encrypted in settings file",
+      "auto_fill": true
+    }
+  },
+  "settings": {
+    "theme": ["Light Mode", "Dark Mode"],
+    "chrome_mode": ["Headless (Invisible)", "Visible"],
+    "automation_speed": ["0.25x", "0.5x", "0.75x", "1x", "1.25x", "1.5x", "1.75x", "2x"],
+    "environment": ["Production", "PreProd"],
+    "remember_credentials": true
+  },
+  "speed_system": {
+    "multipliers": {
+      "0.25x": 0.25,
+      "0.5x": 0.5,
+      "0.75x": 0.75,
+      "1x": 1.0,
+      "1.25x": 1.25,
+      "1.5x": 1.5,
+      "1.75x": 1.75,
+      "2x": 2.0
+    },
+    "base_timings": {
+      "tabs": "0.5s",
+      "text_entry": "0.1s",
+      "clicks": "1.0s",
+      "page_loads": "3.0s"
+    }
+  },
+  "requirements": [
+    "selenium",
+    "openpyxl",
+    "Pillow",
+    "requests"
+  ],
+  "files": [
+    "SMART_ASSISTANT_FINAL.py",
+    "auto_updater.py",
+    "version.json"
+  ],
+  "github": {
+    "repo": "your-repo-here",
+    "download_url": "https://github.com/your-repo/releases/latest"
+  },
+  "changelog_summary": {
+    "0.2.40": "BBB/SMS Add Users + Remember Me login + Speed overhaul",
+    "0.2.30": "Update dialog fixes + 50% slower default speed",
+    "0.2.27": "Comprehensive logging system",
+    "0.2.26": "Increased base timings for speed control"
+  }
 }
