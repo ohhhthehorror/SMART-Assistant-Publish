@@ -1,0 +1,32 @@
+2026-02-25 17:01:50,872 - INFO - ============================================================
+2026-02-25 17:01:50,872 - INFO - SMART Assistant v0.2.28 Starting...
+2026-02-25 17:01:50,873 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\SMART-Assistant-Publish\smart_assistant.log
+2026-02-25 17:01:50,873 - INFO - ============================================================
+2026-02-25 17:01:51,011 - INFO - [ICON] Setting window icon...
+2026-02-25 17:01:51,011 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-25 17:01:51,014 - INFO - [ICON] Trying 3 icon paths...
+2026-02-25 17:01:51,015 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-25 17:01:51,017 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI29082\smartlogosmall.png
+2026-02-25 17:01:51,017 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\SMART-Assistant-Publish\smartlogosmall.png
+2026-02-25 17:01:51,147 - INFO - Loading settings...
+2026-02-25 17:01:51,147 - INFO - Settings loaded - Headless: False, Speed: 1.2, Environment: Production
+2026-02-25 17:01:51,148 - INFO - Auto-updater enabled
+2026-02-25 17:01:51,148 - INFO - Current version: 0.2.28
+2026-02-25 17:01:51,148 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-25 17:01:51,658 - INFO - Starting update check...
+2026-02-25 17:01:51,659 - INFO - Checking for updates...
+2026-02-25 17:01:51,659 - INFO - Current version: 0.2.28
+2026-02-25 17:01:51,659 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-25 17:01:52,098 - INFO - Response status: 200
+2026-02-25 17:01:52,098 - INFO - Latest version on GitHub: 0.2.30
+2026-02-25 17:01:52,098 - INFO - Version comparison:
+2026-02-25 17:01:52,098 - INFO -   Current: 0.2.28 = [0, 2, 28]
+2026-02-25 17:01:52,098 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-25 17:01:52,098 - INFO -   Is newer? True
+2026-02-25 17:01:52,098 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.30/SMART_Assistant.exe
+2026-02-25 17:02:10,106 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.30/SMART_Assistant.exe
+2026-02-25 17:02:10,651 - INFO - Download size: 31152716 bytes
+2026-02-25 17:02:10,651 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\SMART-Assistant-Publish\SMART_Assistant.exe
+2026-02-25 17:02:10,651 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\SMART-Assistant-Publish
+2026-02-25 17:02:10,652 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-02-25 17:02:12,208 - INFO - Download complete: 31152716 bytes
