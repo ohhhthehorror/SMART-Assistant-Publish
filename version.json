@@ -1,7 +1,7 @@
 {
-  "version": "0.2.41",
-  "release_date": "2026-02-26",
-  "release_notes": "Standardized all automation timings and verified global speed control",
+  "version": "0.2.42",
+  "release_date": "03-11-2026",
+  "release_notes": "Standardize timing + custom deactivation filters",
   "changes": [
     "Scanned entire application for all automation waits",
     "Standardized ALL clicks to base 1.0s timing",
