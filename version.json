@@ -1,19 +1,21 @@
 {
-  "version": "0.2.40",
+  "version": "0.2.41",
   "release_date": "2026-02-26",
-  "release_notes": "Added BBB/SMS Add Users with Remember Me login and speed system overhaul",
+  "release_notes": "Standardized all automation timings and verified global speed control",
   "changes": [
-    "Added BBB Add User functionality with spreadsheet upload",
-    "Added SMS Add User functionality with spreadsheet upload",
-    "Added editable user table with checkboxes for selection",
-    "Added Remember Me checkbox to login screen",
-    "Saved credentials stored in settings file",
-    "Complete speed system overhaul - 1x = 1.0 multiplier (no change)",
-    "Base timings: Tabs 0.5s, Text 0.1s, Clicks 1s, Pages 3s",
-    "Added non-headless mode warnings to all Chrome functions",
-    "BBB and SMS both navigate to add user form (9 tabs)",
-    "Position and role validation lists added for BBB",
-    "Form automation ready for completion"
+    "Scanned entire application for all automation waits",
+    "Standardized ALL clicks to base 1.0s timing",
+    "Standardized ALL tabs to base 0.5s timing",
+    "Standardized ALL text entry to base 0.1s timing",
+    "Standardized ALL page loads to base 3.0s timing",
+    "Verified speed multiplier applies to ALL automation functions",
+    "Applied consistent timing to user deactivation scan",
+    "Applied consistent timing to batch deactivation",
+    "Applied consistent timing to standards scan",
+    "Applied consistent timing to BBB add users",
+    "Applied consistent timing to SMS add users",
+    "Applied consistent timing to login verification",
+    "Added 'End access' to deactivation filter"
   ],
   "features": {
     "user_deactivation": {
@@ -30,6 +32,12 @@
         "Select users to deactivate",
         "Add ticket numbers per user",
         "Automated bulk deactivation"
+      ],
+      "filters": [
+        "Skips deactivated users",
+        "Skips terminated users",
+        "Skips 'End access' users",
+        "Skips client accounts"
       ]
     },
     "add_users": {
@@ -48,11 +56,17 @@
       "checks": [
         "Username format validation",
         "Job title compliance"
+      ],
+      "filters": [
+        "Skips deactivated users",
+        "Skips terminated users",
+        "Skips 'End access' users",
+        "Skips client accounts"
       ]
     },
     "login": {
       "remember_me": true,
-      "credential_storage": "encrypted in settings file",
+      "credential_storage": "saved in settings file",
       "auto_fill": true
     }
   },
@@ -64,6 +78,7 @@
     "remember_credentials": true
   },
   "speed_system": {
+    "description": "Global speed multiplier applies to ALL automation",
     "multipliers": {
       "0.25x": 0.25,
       "0.5x": 0.5,
@@ -79,7 +94,8 @@
       "text_entry": "0.1s",
       "clicks": "1.0s",
       "page_loads": "3.0s"
-    }
+    },
+    "verification": "All automation functions verified to use standardized timings with global multiplier"
   },
   "requirements": [
     "selenium",
@@ -97,9 +113,9 @@
     "download_url": "https://github.com/your-repo/releases/latest"
   },
   "changelog_summary": {
+    "0.2.41": "Standardized all automation timings + verified global speed control",
     "0.2.40": "BBB/SMS Add Users + Remember Me login + Speed overhaul",
     "0.2.30": "Update dialog fixes + 50% slower default speed",
-    "0.2.27": "Comprehensive logging system",
-    "0.2.26": "Increased base timings for speed control"
+    "0.2.27": "Comprehensive logging system"
   }
 }
