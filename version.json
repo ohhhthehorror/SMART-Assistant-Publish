@@ -1,5 +1,5 @@
 {
-  "version": "0.2.42",
+  "version": "0.2.43",
   "release_date": "03-11-2026",
   "release_notes": "Standardize timing + custom deactivation filters",
   "changes": [
