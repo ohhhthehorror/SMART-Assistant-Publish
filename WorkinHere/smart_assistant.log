@@ -1,0 +1,2049 @@
+2026-02-25 16:30:43,785 - INFO - ============================================================
+2026-02-25 16:30:43,786 - INFO - SMART Assistant v0.2.27 Starting...
+2026-02-25 16:30:43,787 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-25 16:30:43,787 - INFO - ============================================================
+2026-02-25 16:30:43,792 - INFO - ============================================================
+2026-02-25 16:30:43,792 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-25 16:30:43,792 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-25_16-30-43.log
+2026-02-25 16:30:43,793 - INFO - ============================================================
+2026-02-25 16:30:43,990 - INFO - [ICON] Setting window icon...
+2026-02-25 16:30:43,991 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-25 16:30:43,996 - INFO - [ICON] Trying 3 icon paths...
+2026-02-25 16:30:43,996 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-25 16:30:44,024 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-25 16:30:44,115 - INFO - Loading settings...
+2026-02-25 16:30:44,116 - INFO - Settings loaded - Headless: False, Speed: 1.8, Environment: PreProd
+2026-02-25 16:30:44,116 - INFO - Auto-updater enabled
+2026-02-25 16:30:44,116 - INFO - Current version: 0.2.27
+2026-02-25 16:30:44,116 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-25 16:30:44,618 - INFO - Starting update check...
+2026-02-25 16:30:44,619 - INFO - Checking for updates...
+2026-02-25 16:30:44,619 - INFO - Current version: 0.2.27
+2026-02-25 16:30:44,619 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-25 16:30:45,094 - INFO - Response status: 200
+2026-02-25 16:30:45,094 - INFO - Latest version on GitHub: 0.2.26
+2026-02-25 16:30:45,095 - INFO - Already on latest version: 0.2.27
+2026-02-25 16:37:41,713 - INFO - ============================================================
+2026-02-25 16:37:41,714 - INFO - SMART Assistant v0.2.27 Starting...
+2026-02-25 16:37:41,714 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-25 16:37:41,714 - INFO - ============================================================
+2026-02-25 16:37:41,911 - INFO - [ICON] Setting window icon...
+2026-02-25 16:37:41,911 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-25 16:37:41,916 - INFO - [ICON] Trying 3 icon paths...
+2026-02-25 16:37:41,916 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-25 16:37:41,917 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI309762\smartlogosmall.png
+2026-02-25 16:37:41,917 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-25 16:37:42,796 - INFO - Loading settings...
+2026-02-25 16:37:42,797 - INFO - Settings loaded - Headless: False, Speed: 1.8, Environment: PreProd
+2026-02-25 16:37:42,797 - INFO - Auto-updater enabled
+2026-02-25 16:37:42,797 - INFO - Current version: 0.2.27
+2026-02-25 16:37:42,797 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-25 16:37:43,304 - INFO - Starting update check...
+2026-02-25 16:37:43,305 - INFO - Checking for updates...
+2026-02-25 16:37:43,305 - INFO - Current version: 0.2.27
+2026-02-25 16:37:43,305 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-25 16:37:43,833 - INFO - Response status: 200
+2026-02-25 16:37:43,833 - INFO - Latest version on GitHub: 0.2.28
+2026-02-25 16:37:43,833 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.28/SMART_Assistant.exe
+2026-02-25 16:38:25,187 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.28/SMART_Assistant.exe
+2026-02-25 16:38:26,341 - INFO - Download size: 31155420 bytes
+2026-02-25 16:38:26,341 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-02-25 16:38:26,342 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-02-25 16:38:26,343 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-02-25 16:38:29,422 - INFO - Download complete: 31155420 bytes
+2026-02-25 16:55:54,525 - INFO - ============================================================
+2026-02-25 16:55:54,528 - INFO - SMART Assistant v0.2.28 Starting...
+2026-02-25 16:55:54,528 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-25 16:55:54,529 - INFO - ============================================================
+2026-02-25 16:55:54,709 - INFO - [ICON] Setting window icon...
+2026-02-25 16:55:54,710 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-25 16:55:54,714 - INFO - [ICON] Trying 3 icon paths...
+2026-02-25 16:55:54,715 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-25 16:55:54,716 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI236162\smartlogosmall.png
+2026-02-25 16:55:54,716 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-25 16:55:54,889 - INFO - Loading settings...
+2026-02-25 16:55:54,889 - INFO - Settings loaded - Headless: False, Speed: 1.8, Environment: PreProd
+2026-02-25 16:55:54,890 - INFO - Auto-updater enabled
+2026-02-25 16:55:54,890 - INFO - Current version: 0.2.28
+2026-02-25 16:55:54,890 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-25 16:55:55,405 - INFO - Starting update check...
+2026-02-25 16:55:55,406 - INFO - Checking for updates...
+2026-02-25 16:55:55,407 - INFO - Current version: 0.2.28
+2026-02-25 16:55:55,407 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-25 16:55:55,949 - INFO - Response status: 200
+2026-02-25 16:55:55,949 - INFO - Latest version on GitHub: 0.2.29
+2026-02-25 16:55:55,950 - INFO - Version comparison:
+2026-02-25 16:55:55,950 - INFO -   Current: 0.2.28 = [0, 2, 28]
+2026-02-25 16:55:55,950 - INFO -   Latest:  0.2.29 = [0, 2, 29]
+2026-02-25 16:55:55,950 - INFO -   Is newer? True
+2026-02-25 16:55:55,950 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.29/SMART_Assistant.exe
+2026-02-25 16:57:12,008 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.29/SMART_Assistant.exe
+2026-02-25 16:57:12,851 - INFO - Download size: 31155125 bytes
+2026-02-25 16:57:12,852 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-02-25 16:57:12,852 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-02-25 16:57:12,854 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-02-25 16:57:16,334 - INFO - Download complete: 31155125 bytes
+2026-02-25 17:01:13,424 - INFO - ============================================================
+2026-02-25 17:01:13,425 - INFO - SMART Assistant v0.2.29 Starting...
+2026-02-25 17:01:13,425 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-25 17:01:13,426 - INFO - ============================================================
+2026-02-25 17:01:13,577 - INFO - [ICON] Setting window icon...
+2026-02-25 17:01:13,579 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-25 17:01:13,583 - INFO - [ICON] Trying 3 icon paths...
+2026-02-25 17:01:13,583 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-25 17:01:13,583 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI59842\smartlogosmall.png
+2026-02-25 17:01:13,583 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-25 17:01:13,704 - INFO - Loading settings...
+2026-02-25 17:01:13,705 - INFO - Settings loaded - Headless: False, Speed: 1.8, Environment: PreProd
+2026-02-25 17:01:13,705 - INFO - Auto-updater enabled
+2026-02-25 17:01:13,705 - INFO - Current version: 0.2.29
+2026-02-25 17:01:13,705 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-25 17:01:14,205 - INFO - Starting update check...
+2026-02-25 17:01:14,206 - INFO - Checking for updates...
+2026-02-25 17:01:14,206 - INFO - Current version: 0.2.29
+2026-02-25 17:01:14,206 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-25 17:01:14,760 - INFO - Response status: 200
+2026-02-25 17:01:14,760 - INFO - Latest version on GitHub: 0.2.30
+2026-02-25 17:01:14,761 - INFO - Version comparison:
+2026-02-25 17:01:14,761 - INFO -   Current: 0.2.29 = [0, 2, 29]
+2026-02-25 17:01:14,761 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-25 17:01:14,761 - INFO -   Is newer? True
+2026-02-25 17:01:14,761 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.30/SMART_Assistant.exe
+2026-02-25 17:01:34,917 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.30/SMART_Assistant.exe
+2026-02-25 17:01:35,692 - INFO - Download size: 31152716 bytes
+2026-02-25 17:01:35,693 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-02-25 17:01:35,693 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-02-25 17:01:35,694 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-02-25 17:01:37,066 - INFO - Download complete: 31152716 bytes
+2026-02-25 17:03:54,194 - INFO - ============================================================
+2026-02-25 17:03:54,195 - INFO - SMART Assistant v0.2.30 Starting...
+2026-02-25 17:03:54,195 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-25 17:03:54,195 - INFO - ============================================================
+2026-02-25 17:03:54,292 - INFO - [ICON] Setting window icon...
+2026-02-25 17:03:54,293 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-25 17:03:54,294 - INFO - [ICON] Trying 3 icon paths...
+2026-02-25 17:03:54,295 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-25 17:03:54,295 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI371962\smartlogosmall.png
+2026-02-25 17:03:54,295 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-25 17:03:54,375 - INFO - Loading settings...
+2026-02-25 17:03:54,375 - INFO - Settings loaded - Headless: False, Speed: 1.8, Environment: PreProd
+2026-02-25 17:03:54,376 - INFO - Auto-updater enabled
+2026-02-25 17:03:54,376 - INFO - Current version: 0.2.30
+2026-02-25 17:03:54,376 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-25 17:03:54,878 - INFO - Starting update check...
+2026-02-25 17:03:54,879 - INFO - Checking for updates...
+2026-02-25 17:03:54,879 - INFO - Current version: 0.2.30
+2026-02-25 17:03:54,880 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-25 17:03:55,314 - INFO - Response status: 200
+2026-02-25 17:03:55,314 - INFO - Latest version on GitHub: 0.2.30
+2026-02-25 17:03:55,314 - INFO - Version comparison:
+2026-02-25 17:03:55,314 - INFO -   Current: 0.2.30 = [0, 2, 30]
+2026-02-25 17:03:55,314 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-25 17:03:55,314 - INFO -   Is newer? False
+2026-02-25 17:03:55,314 - INFO - Already on latest version: 0.2.30
+2026-02-25 17:04:11,430 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-25 17:04:11,430 - INFO -   Dark Mode: False
+2026-02-25 17:04:11,431 - INFO -   Headless: False
+2026-02-25 17:04:11,431 - INFO -   Speed: 1.8
+2026-02-25 17:04:11,431 - INFO -   Environment: PreProd
+2026-02-25 17:04:13,784 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-25 17:04:13,784 - INFO -   Dark Mode: True
+2026-02-25 17:04:13,784 - INFO -   Headless: False
+2026-02-25 17:04:13,784 - INFO -   Speed: 1.8
+2026-02-25 17:04:13,785 - INFO -   Environment: PreProd
+2026-02-26 09:19:01,341 - INFO - ============================================================
+2026-02-26 09:19:01,342 - INFO - SMART Assistant v0.2.30 Starting...
+2026-02-26 09:19:01,342 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 09:19:01,343 - INFO - ============================================================
+2026-02-26 09:19:01,458 - INFO - [ICON] Setting window icon...
+2026-02-26 09:19:01,459 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 09:19:01,463 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 09:19:01,464 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 09:19:01,464 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI300122\smartlogosmall.png
+2026-02-26 09:19:01,465 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 09:19:01,572 - INFO - Loading settings...
+2026-02-26 09:19:01,573 - INFO - Settings loaded - Headless: False, Speed: 1.8, Environment: PreProd
+2026-02-26 09:19:01,574 - INFO - Auto-updater enabled
+2026-02-26 09:19:01,574 - INFO - Current version: 0.2.30
+2026-02-26 09:19:01,574 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 09:19:02,085 - INFO - Starting update check...
+2026-02-26 09:19:02,086 - INFO - Checking for updates...
+2026-02-26 09:19:02,086 - INFO - Current version: 0.2.30
+2026-02-26 09:19:02,086 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 09:19:02,515 - INFO - Response status: 200
+2026-02-26 09:19:02,515 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 09:19:02,516 - INFO - Version comparison:
+2026-02-26 09:19:02,516 - INFO -   Current: 0.2.30 = [0, 2, 30]
+2026-02-26 09:19:02,516 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 09:19:02,516 - INFO -   Is newer? False
+2026-02-26 09:19:02,516 - INFO - Already on latest version: 0.2.30
+2026-02-26 09:19:53,825 - INFO - Environment changed to: Production
+2026-02-26 09:19:53,827 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 09:19:53,827 - INFO -   Dark Mode: True
+2026-02-26 09:19:53,828 - INFO -   Headless: False
+2026-02-26 09:19:53,828 - INFO -   Speed: 1.8
+2026-02-26 09:19:53,828 - INFO -   Environment: Production
+2026-02-26 09:19:56,578 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 09:19:56,578 - INFO -   Dark Mode: True
+2026-02-26 09:19:56,578 - INFO -   Headless: False
+2026-02-26 09:19:56,579 - INFO -   Speed: 1.8
+2026-02-26 09:19:56,579 - INFO -   Environment: Production
+2026-02-26 09:20:27,961 - INFO - Automation speed changed to: 0.5x (actual: 0.33)
+2026-02-26 09:20:27,962 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 09:20:27,962 - INFO -   Dark Mode: True
+2026-02-26 09:20:27,962 - INFO -   Headless: False
+2026-02-26 09:20:27,962 - INFO -   Speed: 0.33
+2026-02-26 09:20:27,963 - INFO -   Environment: Production
+2026-02-26 12:46:38,909 - INFO - ============================================================
+2026-02-26 12:46:38,910 - INFO - SMART Assistant v0.2.30 Starting...
+2026-02-26 12:46:38,911 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 12:46:38,911 - INFO - ============================================================
+2026-02-26 12:46:39,013 - INFO - [ICON] Setting window icon...
+2026-02-26 12:46:39,013 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 12:46:39,016 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 12:46:39,017 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 12:46:39,017 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI255762\smartlogosmall.png
+2026-02-26 12:46:39,017 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 12:46:39,113 - INFO - Loading settings...
+2026-02-26 12:46:39,113 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: Production
+2026-02-26 12:46:39,114 - INFO - Auto-updater enabled
+2026-02-26 12:46:39,114 - INFO - Current version: 0.2.30
+2026-02-26 12:46:39,114 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 12:46:39,614 - INFO - Starting update check...
+2026-02-26 12:46:39,615 - INFO - Checking for updates...
+2026-02-26 12:46:39,615 - INFO - Current version: 0.2.30
+2026-02-26 12:46:39,615 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 12:46:40,086 - INFO - Response status: 200
+2026-02-26 12:46:40,086 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 12:46:40,087 - INFO - Version comparison:
+2026-02-26 12:46:40,087 - INFO -   Current: 0.2.30 = [0, 2, 30]
+2026-02-26 12:46:40,087 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 12:46:40,087 - INFO -   Is newer? False
+2026-02-26 12:46:40,087 - INFO - Already on latest version: 0.2.30
+2026-02-26 12:47:00,340 - INFO - Environment changed to: PreProd
+2026-02-26 12:47:00,341 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 12:47:00,342 - INFO -   Dark Mode: True
+2026-02-26 12:47:00,342 - INFO -   Headless: False
+2026-02-26 12:47:00,342 - INFO -   Speed: 0.33
+2026-02-26 12:47:00,342 - INFO -   Environment: PreProd
+2026-02-26 12:47:04,765 - INFO - Automation speed changed to: 0.5x (actual: 0.33)
+2026-02-26 12:47:04,766 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 12:47:04,767 - INFO -   Dark Mode: True
+2026-02-26 12:47:04,767 - INFO -   Headless: False
+2026-02-26 12:47:04,767 - INFO -   Speed: 0.33
+2026-02-26 12:47:04,767 - INFO -   Environment: PreProd
+2026-02-26 12:57:32,043 - INFO - ============================================================
+2026-02-26 12:57:32,043 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 12:57:32,044 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 12:57:32,044 - INFO - ============================================================
+2026-02-26 12:57:32,047 - INFO - ============================================================
+2026-02-26 12:57:32,048 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 12:57:32,048 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_12-57-32.log
+2026-02-26 12:57:32,049 - INFO - ============================================================
+2026-02-26 12:57:32,782 - INFO - [ICON] Setting window icon...
+2026-02-26 12:57:32,782 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 12:57:32,787 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 12:57:32,787 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 12:57:32,820 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 12:57:32,915 - INFO - Loading settings...
+2026-02-26 12:57:32,915 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 12:57:32,915 - INFO - Auto-updater enabled
+2026-02-26 12:57:32,915 - INFO - Current version: 0.2.31
+2026-02-26 12:57:32,915 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 12:57:33,418 - INFO - Starting update check...
+2026-02-26 12:57:33,419 - INFO - Checking for updates...
+2026-02-26 12:57:33,420 - INFO - Current version: 0.2.31
+2026-02-26 12:57:33,420 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 12:57:33,828 - INFO - Response status: 200
+2026-02-26 12:57:33,828 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 12:57:33,828 - INFO - Version comparison:
+2026-02-26 12:57:33,828 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 12:57:33,828 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 12:57:33,829 - INFO -   Is newer? False
+2026-02-26 12:57:33,829 - INFO - Already on latest version: 0.2.31
+2026-02-26 12:58:07,683 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx
+2026-02-26 12:58:07,684 - INFO - Parsing spreadsheet...
+2026-02-26 12:58:07,702 - INFO - Parsed 0 users from spreadsheet
+2026-02-26 12:58:07,703 - ERROR - Error parsing spreadsheet: bad window path name ".!frame.!frame4.!frame2.!frame2.!frame.!canvas.!frame.!label"
+2026-02-26 12:59:16,730 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx
+2026-02-26 12:59:16,731 - INFO - Parsing spreadsheet...
+2026-02-26 12:59:16,743 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 12:59:16,744 - INFO - Displayed 1 users in table
+2026-02-26 13:03:04,516 - INFO - ============================================================
+2026-02-26 13:03:04,516 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 13:03:04,517 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 13:03:04,517 - INFO - ============================================================
+2026-02-26 13:03:04,519 - INFO - ============================================================
+2026-02-26 13:03:04,519 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 13:03:04,520 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_13-03-04.log
+2026-02-26 13:03:04,520 - INFO - ============================================================
+2026-02-26 13:03:05,336 - INFO - [ICON] Setting window icon...
+2026-02-26 13:03:05,337 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 13:03:05,342 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 13:03:05,343 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 13:03:05,379 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 13:03:05,493 - INFO - Loading settings...
+2026-02-26 13:03:05,494 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 13:03:05,494 - INFO - Auto-updater enabled
+2026-02-26 13:03:05,495 - INFO - Current version: 0.2.31
+2026-02-26 13:03:05,495 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 13:03:05,998 - INFO - Starting update check...
+2026-02-26 13:03:06,000 - INFO - Checking for updates...
+2026-02-26 13:03:06,001 - INFO - Current version: 0.2.31
+2026-02-26 13:03:06,001 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 13:03:06,392 - INFO - Response status: 200
+2026-02-26 13:03:06,392 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 13:03:06,393 - INFO - Version comparison:
+2026-02-26 13:03:06,393 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 13:03:06,393 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 13:03:06,394 - INFO -   Is newer? False
+2026-02-26 13:03:06,394 - INFO - Already on latest version: 0.2.31
+2026-02-26 13:03:37,840 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx
+2026-02-26 13:03:37,841 - INFO - Parsing spreadsheet...
+2026-02-26 13:03:37,853 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:03:37,857 - INFO - Displayed 1 users in table
+2026-02-26 13:04:05,896 - INFO - ============================================================
+2026-02-26 13:04:05,896 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 13:04:05,897 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 13:04:05,897 - INFO - ============================================================
+2026-02-26 13:04:05,899 - INFO - ============================================================
+2026-02-26 13:04:05,899 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 13:04:05,900 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_13-04-05.log
+2026-02-26 13:04:05,900 - INFO - ============================================================
+2026-02-26 13:04:06,017 - INFO - [ICON] Setting window icon...
+2026-02-26 13:04:06,018 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 13:04:06,021 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 13:04:06,022 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 13:04:06,026 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 13:04:06,055 - INFO - Loading settings...
+2026-02-26 13:04:06,056 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 13:04:06,057 - INFO - Auto-updater enabled
+2026-02-26 13:04:06,057 - INFO - Current version: 0.2.31
+2026-02-26 13:04:06,057 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 13:04:06,567 - INFO - Starting update check...
+2026-02-26 13:04:06,568 - INFO - Checking for updates...
+2026-02-26 13:04:06,568 - INFO - Current version: 0.2.31
+2026-02-26 13:04:06,569 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 13:04:06,979 - INFO - Response status: 200
+2026-02-26 13:04:06,980 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 13:04:06,980 - INFO - Version comparison:
+2026-02-26 13:04:06,980 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 13:04:06,980 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 13:04:06,980 - INFO -   Is newer? False
+2026-02-26 13:04:06,981 - INFO - Already on latest version: 0.2.31
+2026-02-26 13:04:31,980 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx
+2026-02-26 13:04:31,981 - INFO - Parsing spreadsheet...
+2026-02-26 13:04:31,994 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:04:31,996 - INFO - Displayed 1 users in table
+2026-02-26 13:06:34,149 - INFO - ============================================================
+2026-02-26 13:06:34,149 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 13:06:34,150 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 13:06:34,150 - INFO - ============================================================
+2026-02-26 13:06:34,152 - INFO - ============================================================
+2026-02-26 13:06:34,152 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 13:06:34,152 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_13-06-34.log
+2026-02-26 13:06:34,152 - INFO - ============================================================
+2026-02-26 13:06:34,270 - INFO - [ICON] Setting window icon...
+2026-02-26 13:06:34,270 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 13:06:34,273 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 13:06:34,274 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 13:06:34,278 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 13:06:34,318 - INFO - Loading settings...
+2026-02-26 13:06:34,319 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 13:06:34,319 - INFO - Auto-updater enabled
+2026-02-26 13:06:34,319 - INFO - Current version: 0.2.31
+2026-02-26 13:06:34,319 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 13:06:34,822 - INFO - Starting update check...
+2026-02-26 13:06:34,823 - INFO - Checking for updates...
+2026-02-26 13:06:34,824 - INFO - Current version: 0.2.31
+2026-02-26 13:06:34,824 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 13:06:35,318 - INFO - Response status: 200
+2026-02-26 13:06:35,318 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 13:06:35,318 - INFO - Version comparison:
+2026-02-26 13:06:35,319 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 13:06:35,319 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 13:06:35,319 - INFO -   Is newer? False
+2026-02-26 13:06:35,319 - INFO - Already on latest version: 0.2.31
+2026-02-26 13:06:58,246 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx
+2026-02-26 13:06:58,247 - INFO - Parsing spreadsheet...
+2026-02-26 13:06:58,253 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:06:58,264 - INFO - Displayed 1 users in editable table
+2026-02-26 13:07:30,856 - INFO - Starting add users process for 1 selected users
+2026-02-26 13:07:30,856 - INFO - Environment: PreProd
+2026-02-26 13:07:30,857 - INFO - ============================================================
+2026-02-26 13:07:30,857 - INFO - BBB ADD USERS - Starting
+2026-02-26 13:07:30,858 - INFO - Environment: PreProd
+2026-02-26 13:07:30,858 - INFO - Users to add: 1
+2026-02-26 13:07:30,858 - INFO - ============================================================
+2026-02-26 13:07:32,084 - INFO - Logging in...
+2026-02-26 13:07:43,372 - INFO - Selecting program...
+2026-02-26 13:07:54,728 - INFO - Navigating to users page...
+2026-02-26 13:07:57,865 - INFO - Looking for Add User button...
+2026-02-26 13:08:00,935 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 13:08:00,936 - INFO - Browser will stay open for testing...
+2026-02-26 13:08:00,937 - INFO - Automation paused - close browser manually to continue
+2026-02-26 13:27:05,567 - INFO - ============================================================
+2026-02-26 13:27:05,568 - INFO - SMART Assistant v0.2.30 Starting...
+2026-02-26 13:27:05,569 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 13:27:05,569 - INFO - ============================================================
+2026-02-26 13:27:05,728 - INFO - [ICON] Setting window icon...
+2026-02-26 13:27:05,729 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 13:27:05,732 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 13:27:05,732 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 13:27:05,732 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI194402\smartlogosmall.png
+2026-02-26 13:27:05,732 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 13:27:05,856 - INFO - Loading settings...
+2026-02-26 13:27:05,857 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 13:27:05,857 - INFO - Auto-updater enabled
+2026-02-26 13:27:05,857 - INFO - Current version: 0.2.30
+2026-02-26 13:27:05,857 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 13:27:06,359 - INFO - Starting update check...
+2026-02-26 13:27:06,359 - INFO - Checking for updates...
+2026-02-26 13:27:06,360 - INFO - Current version: 0.2.30
+2026-02-26 13:27:06,360 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 13:27:06,863 - INFO - Response status: 200
+2026-02-26 13:27:06,863 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 13:27:06,863 - INFO - Version comparison:
+2026-02-26 13:27:06,863 - INFO -   Current: 0.2.30 = [0, 2, 30]
+2026-02-26 13:27:06,863 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 13:27:06,863 - INFO -   Is newer? False
+2026-02-26 13:27:06,864 - INFO - Already on latest version: 0.2.30
+2026-02-26 13:40:37,511 - INFO - ============================================================
+2026-02-26 13:40:37,512 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 13:40:37,513 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 13:40:37,513 - INFO - ============================================================
+2026-02-26 13:40:37,516 - INFO - ============================================================
+2026-02-26 13:40:37,517 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 13:40:37,517 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_13-40-37.log
+2026-02-26 13:40:37,518 - INFO - ============================================================
+2026-02-26 13:40:38,285 - INFO - [ICON] Setting window icon...
+2026-02-26 13:40:38,287 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 13:40:38,290 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 13:40:38,291 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 13:40:38,327 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 13:40:38,432 - INFO - Loading settings...
+2026-02-26 13:40:38,433 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 13:40:38,433 - INFO - Auto-updater enabled
+2026-02-26 13:40:38,433 - INFO - Current version: 0.2.31
+2026-02-26 13:40:38,434 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 13:40:38,944 - INFO - Starting update check...
+2026-02-26 13:40:38,946 - INFO - Checking for updates...
+2026-02-26 13:40:38,947 - INFO - Current version: 0.2.31
+2026-02-26 13:40:38,947 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 13:40:39,456 - INFO - Response status: 200
+2026-02-26 13:40:39,457 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 13:40:39,458 - INFO - Version comparison:
+2026-02-26 13:40:39,458 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 13:40:39,459 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 13:40:39,459 - INFO -   Is newer? False
+2026-02-26 13:40:39,459 - INFO - Already on latest version: 0.2.31
+2026-02-26 13:41:03,543 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx
+2026-02-26 13:41:03,544 - INFO - Parsing spreadsheet...
+2026-02-26 13:41:03,544 - ERROR - Error parsing spreadsheet: [Errno 13] Permission denied: 'C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx'
+2026-02-26 13:41:03,579 - ERROR - Traceback (most recent call last):
+  File "C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_ASSISTANT_FINAL.py", line 4557, in parse_spreadsheet
+    workbook = openpyxl.load_workbook(filepath)
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\openpyxl\reader\excel.py", line 346, in load_workbook
+    reader = ExcelReader(filename, read_only, keep_vba,
+                         data_only, keep_links, rich_text)
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\openpyxl\reader\excel.py", line 123, in __init__
+    self.archive = _validate_archive(fn)
+                   ~~~~~~~~~~~~~~~~~^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\openpyxl\reader\excel.py", line 95, in _validate_archive
+    archive = ZipFile(filename, 'r')
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\zipfile\__init__.py", line 1453, in __init__
+    self.fp = io.open(file, filemode)
+              ~~~~~~~^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/CVG Employee List.xlsx'
+
+2026-02-26 13:41:09,620 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 13:41:09,621 - INFO - Parsing spreadsheet...
+2026-02-26 13:41:09,631 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:41:09,641 - INFO - Displayed 1 users in editable table
+2026-02-26 13:41:21,480 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 13:41:21,481 - INFO - Parsing spreadsheet...
+2026-02-26 13:41:21,495 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:41:21,500 - INFO - Displayed 1 users in editable table
+2026-02-26 13:41:51,152 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 13:41:51,152 - INFO - Parsing spreadsheet...
+2026-02-26 13:41:51,157 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:41:51,163 - INFO - Displayed 1 users in editable table
+2026-02-26 13:41:52,731 - INFO - Starting add users process for 1 selected users
+2026-02-26 13:41:52,732 - INFO - Environment: PreProd
+2026-02-26 13:41:52,733 - INFO - ============================================================
+2026-02-26 13:41:52,733 - INFO - BBB ADD USERS - Starting
+2026-02-26 13:41:52,734 - INFO - Environment: PreProd
+2026-02-26 13:41:52,734 - INFO - Users to add: 1
+2026-02-26 13:41:52,734 - INFO - ============================================================
+2026-02-26 13:41:53,991 - INFO - Logging in...
+2026-02-26 13:42:05,406 - INFO - Selecting program...
+2026-02-26 13:42:16,759 - INFO - Navigating to users page...
+2026-02-26 13:42:19,883 - INFO - Looking for Add User button...
+2026-02-26 13:42:22,952 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 13:42:22,953 - INFO - Browser will stay open for testing...
+2026-02-26 13:42:22,953 - INFO - Automation paused - close browser manually to continue
+2026-02-26 13:42:56,840 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 13:42:56,840 - INFO - Parsing spreadsheet...
+2026-02-26 13:42:56,845 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:42:56,850 - INFO - Displayed 1 users in editable table
+2026-02-26 13:42:58,207 - INFO - Starting SMS add users process for 1 selected users
+2026-02-26 13:42:58,208 - INFO - ============================================================
+2026-02-26 13:42:58,208 - INFO - SMS ADD USERS - Starting
+2026-02-26 13:42:58,208 - INFO - Users to add: 1
+2026-02-26 13:42:58,208 - INFO - ============================================================
+2026-02-26 13:42:59,451 - INFO - Logging in to SMS...
+2026-02-26 13:43:12,938 - INFO - Verifying dashboard...
+2026-02-26 13:43:12,950 - INFO - Navigating to users page...
+2026-02-26 13:43:16,069 - INFO - Looking for Add User button...
+2026-02-26 13:43:26,239 - ERROR - Error during SMS add users: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6ed44f3d5
+	0x7ff6ed44f430
+	0x7ff6ed1f10bd
+	0x7ff6ed24c2fe
+	0x7ff6ed24c60c
+	0x7ff6ed29d187
+	0x7ff6ed299d08
+	0x7ff6ed23cb0c
+	0x7ff6ed23da53
+	0x7ff6ed72b470
+	0x7ff6ed72586d
+	0x7ff6ed74621a
+	0x7ff6ed46b235
+	0x7ff6ed473a5c
+	0x7ff6ed458844
+	0x7ff6ed4589f6
+	0x7ff6ed43eb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+2026-02-26 13:43:26,260 - ERROR - Traceback (most recent call last):
+  File "C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_ASSISTANT_FINAL.py", line 5354, in run_add_users
+    add_user_button = wait.until(EC.element_to_be_clickable(
+        (By.CSS_SELECTOR, "#root > div.collapsed.AdminLayout_admin_layout_container__8z6D1 > div.AdminLayout_admin_body_container__qHWPk > div > div:nth-child(1) > div.d-flex.justify-content-between.align-items-center.mb-2.bg-white.p-3.undefined.undefined.undefined > div.d-flex.justify-content-end.align-items-center > div > button")
+    ))
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\support\wait.py", line 122, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6ed44f3d5
+	0x7ff6ed44f430
+	0x7ff6ed1f10bd
+	0x7ff6ed24c2fe
+	0x7ff6ed24c60c
+	0x7ff6ed29d187
+	0x7ff6ed299d08
+	0x7ff6ed23cb0c
+	0x7ff6ed23da53
+	0x7ff6ed72b470
+	0x7ff6ed72586d
+	0x7ff6ed74621a
+	0x7ff6ed46b235
+	0x7ff6ed473a5c
+	0x7ff6ed458844
+	0x7ff6ed4589f6
+	0x7ff6ed43eb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+
+2026-02-26 13:51:31,149 - INFO - ============================================================
+2026-02-26 13:51:31,150 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 13:51:31,150 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 13:51:31,150 - INFO - ============================================================
+2026-02-26 13:51:31,152 - INFO - ============================================================
+2026-02-26 13:51:31,153 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 13:51:31,153 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_13-51-31.log
+2026-02-26 13:51:31,153 - INFO - ============================================================
+2026-02-26 13:51:31,280 - INFO - [ICON] Setting window icon...
+2026-02-26 13:51:31,281 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 13:51:31,286 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 13:51:31,286 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 13:51:31,290 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 13:51:31,329 - INFO - Loading settings...
+2026-02-26 13:51:31,330 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 13:51:31,330 - INFO - Auto-updater enabled
+2026-02-26 13:51:31,330 - INFO - Current version: 0.2.31
+2026-02-26 13:51:31,330 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 13:51:31,841 - INFO - Starting update check...
+2026-02-26 13:51:31,841 - INFO - Checking for updates...
+2026-02-26 13:51:31,841 - INFO - Current version: 0.2.31
+2026-02-26 13:51:31,841 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 13:51:32,287 - INFO - Response status: 200
+2026-02-26 13:51:32,288 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 13:51:32,288 - INFO - Version comparison:
+2026-02-26 13:51:32,288 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 13:51:32,288 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 13:51:32,288 - INFO -   Is newer? False
+2026-02-26 13:51:32,288 - INFO - Already on latest version: 0.2.31
+2026-02-26 13:51:53,387 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 13:51:53,388 - INFO - Parsing spreadsheet...
+2026-02-26 13:51:53,397 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:51:53,406 - INFO - Displayed 1 users in editable table
+2026-02-26 13:51:54,721 - INFO - Starting SMS add users process for 1 selected users
+2026-02-26 13:51:54,722 - INFO - ============================================================
+2026-02-26 13:51:54,723 - INFO - SMS ADD USERS - Starting
+2026-02-26 13:51:54,723 - INFO - Users to add: 1
+2026-02-26 13:51:54,723 - INFO - ============================================================
+2026-02-26 13:51:55,979 - INFO - Logging in to SMS...
+2026-02-26 13:52:07,261 - INFO - Selecting program...
+2026-02-26 13:52:18,595 - INFO - Verifying dashboard...
+2026-02-26 13:52:18,604 - INFO - Navigating to users page...
+2026-02-26 13:52:21,712 - INFO - Looking for Add User button...
+2026-02-26 13:52:24,800 - INFO - Current URL: https://fe.smsclean.com/main/users/add-user
+2026-02-26 13:52:24,801 - INFO - Browser will stay open for testing...
+2026-02-26 13:52:24,801 - INFO - Automation paused - close browser manually to continue
+2026-02-26 13:53:08,355 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 13:53:08,356 - INFO - Parsing spreadsheet...
+2026-02-26 13:53:10,429 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 13:53:10,434 - INFO - Displayed 1 users in editable table
+2026-02-26 13:53:11,629 - INFO - Starting add users process for 1 selected users
+2026-02-26 13:53:11,630 - INFO - Environment: PreProd
+2026-02-26 13:53:11,630 - INFO - ============================================================
+2026-02-26 13:53:11,631 - INFO - BBB ADD USERS - Starting
+2026-02-26 13:53:11,631 - INFO - Environment: PreProd
+2026-02-26 13:53:11,631 - INFO - Users to add: 1
+2026-02-26 13:53:11,631 - INFO - ============================================================
+2026-02-26 13:53:12,939 - INFO - Logging in...
+2026-02-26 13:53:24,210 - INFO - Selecting program...
+2026-02-26 13:53:35,555 - INFO - Navigating to users page...
+2026-02-26 13:53:38,693 - INFO - Looking for Add User button...
+2026-02-26 13:53:41,764 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 13:53:41,764 - INFO - Navigating form with 9 tabs...
+2026-02-26 13:53:44,601 - INFO - Browser will stay open for testing...
+2026-02-26 13:53:44,602 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:02:49,708 - INFO - ============================================================
+2026-02-26 14:02:49,709 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 14:02:49,709 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 14:02:49,709 - INFO - ============================================================
+2026-02-26 14:02:49,711 - INFO - ============================================================
+2026-02-26 14:02:49,712 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 14:02:49,712 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_14-02-49.log
+2026-02-26 14:02:49,713 - INFO - ============================================================
+2026-02-26 14:02:50,412 - INFO - [ICON] Setting window icon...
+2026-02-26 14:02:50,413 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 14:02:50,418 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 14:02:50,418 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 14:02:50,451 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 14:02:50,572 - INFO - Loading settings...
+2026-02-26 14:02:50,572 - INFO - Settings loaded - Headless: False, Speed: 0.33, Environment: PreProd
+2026-02-26 14:02:50,572 - INFO - Auto-updater enabled
+2026-02-26 14:02:50,573 - INFO - Current version: 0.2.31
+2026-02-26 14:02:50,573 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 14:02:51,075 - INFO - Starting update check...
+2026-02-26 14:02:51,076 - INFO - Checking for updates...
+2026-02-26 14:02:51,077 - INFO - Current version: 0.2.31
+2026-02-26 14:02:51,077 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 14:02:51,480 - INFO - Response status: 200
+2026-02-26 14:02:51,481 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 14:02:51,481 - INFO - Version comparison:
+2026-02-26 14:02:51,481 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 14:02:51,482 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 14:02:51,482 - INFO -   Is newer? False
+2026-02-26 14:02:51,482 - INFO - Already on latest version: 0.2.31
+2026-02-26 14:03:32,136 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:03:32,138 - INFO - Parsing spreadsheet...
+2026-02-26 14:03:32,148 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:03:32,157 - INFO - Displayed 1 users in editable table
+2026-02-26 14:03:33,199 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:03:33,200 - INFO - Environment: PreProd
+2026-02-26 14:03:33,201 - INFO - ============================================================
+2026-02-26 14:03:33,201 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:03:33,201 - INFO - Environment: PreProd
+2026-02-26 14:03:33,202 - INFO - Users to add: 1
+2026-02-26 14:03:33,202 - INFO - ============================================================
+2026-02-26 14:03:34,433 - INFO - Logging in...
+2026-02-26 14:03:56,919 - INFO - Selecting program...
+2026-02-26 14:04:03,372 - ERROR - Error during add users: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6ed44f3d5
+	0x7ff6ed44f430
+	0x7ff6ed1f10bd
+	0x7ff6ed1dc642
+	0x7ff6ed2029cb
+	0x7ff6ed27d500
+	0x7ff6ed299652
+	0x7ff6ed23cb0c
+	0x7ff6ed23da53
+	0x7ff6ed72b470
+	0x7ff6ed72586d
+	0x7ff6ed74621a
+	0x7ff6ed46b235
+	0x7ff6ed473a5c
+	0x7ff6ed458844
+	0x7ff6ed4589f6
+	0x7ff6ed43eb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+2026-02-26 14:04:03,437 - ERROR - Traceback (most recent call last):
+  File "C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_ASSISTANT_FINAL.py", line 4856, in run_add_users
+    actions.send_keys(Keys.ENTER).perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 96, in perform
+    self.w3c_actions.perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 148, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6ed44f3d5
+	0x7ff6ed44f430
+	0x7ff6ed1f10bd
+	0x7ff6ed1dc642
+	0x7ff6ed2029cb
+	0x7ff6ed27d500
+	0x7ff6ed299652
+	0x7ff6ed23cb0c
+	0x7ff6ed23da53
+	0x7ff6ed72b470
+	0x7ff6ed72586d
+	0x7ff6ed74621a
+	0x7ff6ed46b235
+	0x7ff6ed473a5c
+	0x7ff6ed458844
+	0x7ff6ed4589f6
+	0x7ff6ed43eb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+
+2026-02-26 14:04:08,776 - INFO - Automation speed changed to: 1x (actual: 1.0)
+2026-02-26 14:04:08,777 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 14:04:08,777 - INFO -   Dark Mode: True
+2026-02-26 14:04:08,777 - INFO -   Headless: False
+2026-02-26 14:04:08,778 - INFO -   Speed: 1.0
+2026-02-26 14:04:08,778 - INFO -   Environment: PreProd
+2026-02-26 14:04:18,152 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:04:18,152 - INFO - Parsing spreadsheet...
+2026-02-26 14:04:20,205 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:04:20,211 - INFO - Displayed 1 users in editable table
+2026-02-26 14:04:37,421 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:04:37,422 - INFO - Environment: PreProd
+2026-02-26 14:04:37,423 - INFO - ============================================================
+2026-02-26 14:04:37,423 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:04:37,423 - INFO - Environment: PreProd
+2026-02-26 14:04:37,424 - INFO - Users to add: 1
+2026-02-26 14:04:37,424 - INFO - ============================================================
+2026-02-26 14:04:38,691 - INFO - Logging in...
+2026-02-26 14:04:46,622 - INFO - Selecting program...
+2026-02-26 14:04:52,347 - INFO - Navigating to users page...
+2026-02-26 14:04:55,435 - INFO - Looking for Add User button...
+2026-02-26 14:04:58,479 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 14:04:58,480 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:05:03,087 - INFO - Browser will stay open for testing...
+2026-02-26 14:05:03,088 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:05:20,606 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:05:20,607 - INFO - Parsing spreadsheet...
+2026-02-26 14:05:20,611 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:05:20,616 - INFO - Displayed 1 users in editable table
+2026-02-26 14:05:27,251 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 14:05:27,251 - INFO -   Dark Mode: False
+2026-02-26 14:05:27,252 - INFO -   Headless: False
+2026-02-26 14:05:27,252 - INFO -   Speed: 1.0
+2026-02-26 14:05:27,253 - INFO -   Environment: PreProd
+2026-02-26 14:05:32,777 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:05:32,777 - INFO - Parsing spreadsheet...
+2026-02-26 14:05:32,782 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:05:32,787 - INFO - Displayed 1 users in editable table
+2026-02-26 14:05:51,745 - INFO - Starting SMS add users process for 1 selected users
+2026-02-26 14:05:51,746 - INFO - ============================================================
+2026-02-26 14:05:51,747 - INFO - SMS ADD USERS - Starting
+2026-02-26 14:05:51,747 - INFO - Users to add: 1
+2026-02-26 14:05:51,747 - INFO - ============================================================
+2026-02-26 14:05:53,023 - INFO - Logging in to SMS...
+2026-02-26 14:06:01,035 - INFO - Selecting program...
+2026-02-26 14:06:06,727 - INFO - Verifying dashboard...
+2026-02-26 14:06:06,744 - INFO - Navigating to users page...
+2026-02-26 14:06:09,832 - INFO - Looking for Add User button...
+2026-02-26 14:06:12,874 - INFO - Current URL: https://fe.smsclean.com/main/users/add-user
+2026-02-26 14:06:12,874 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:06:17,471 - INFO - Browser will stay open for testing...
+2026-02-26 14:06:17,471 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:06:45,259 - INFO - ============================================================
+2026-02-26 14:06:45,259 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 14:06:45,260 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 14:06:45,260 - INFO - ============================================================
+2026-02-26 14:06:45,262 - INFO - ============================================================
+2026-02-26 14:06:45,262 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 14:06:45,263 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_14-06-45.log
+2026-02-26 14:06:45,263 - INFO - ============================================================
+2026-02-26 14:06:45,359 - INFO - [ICON] Setting window icon...
+2026-02-26 14:06:45,360 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 14:06:45,363 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 14:06:45,364 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 14:06:45,369 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 14:06:45,409 - INFO - Loading settings...
+2026-02-26 14:06:45,410 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-02-26 14:06:45,410 - INFO - Auto-updater enabled
+2026-02-26 14:06:45,410 - INFO - Current version: 0.2.31
+2026-02-26 14:06:45,410 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 14:06:45,911 - INFO - Starting update check...
+2026-02-26 14:06:45,912 - INFO - Checking for updates...
+2026-02-26 14:06:45,912 - INFO - Current version: 0.2.31
+2026-02-26 14:06:45,912 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 14:06:46,334 - INFO - Response status: 200
+2026-02-26 14:06:46,335 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 14:06:46,335 - INFO - Version comparison:
+2026-02-26 14:06:46,335 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 14:06:46,336 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 14:06:46,336 - INFO -   Is newer? False
+2026-02-26 14:06:46,336 - INFO - Already on latest version: 0.2.31
+2026-02-26 14:07:03,176 - INFO - ============================================================
+2026-02-26 14:07:03,176 - INFO - USER SCAN STARTED - Inactive 120+ days
+2026-02-26 14:07:03,177 - INFO - Settings: Headless=False, Speed=1.0, Environment=PreProd
+2026-02-26 14:07:03,177 - INFO - ============================================================
+2026-02-26 14:07:44,515 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2026-02-26 14:07:49,534 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59706): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e55fd4e900f63b5912b15e7299be2af8/actions
+2026-02-26 14:07:53,588 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59706): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e55fd4e900f63b5912b15e7299be2af8/actions
+2026-02-26 14:07:57,719 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59706): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e55fd4e900f63b5912b15e7299be2af8/actions
+2026-02-26 14:08:09,442 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59706): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e55fd4e900f63b5912b15e7299be2af8
+2026-02-26 14:08:11,277 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:08:11,278 - INFO - Parsing spreadsheet...
+2026-02-26 14:08:11,301 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:08:11,309 - INFO - Displayed 1 users in editable table
+2026-02-26 14:08:13,532 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=59706): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it")': /session/e55fd4e900f63b5912b15e7299be2af8
+2026-02-26 14:15:22,322 - INFO - ============================================================
+2026-02-26 14:15:22,323 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 14:15:22,323 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 14:15:22,324 - INFO - ============================================================
+2026-02-26 14:15:22,326 - INFO - ============================================================
+2026-02-26 14:15:22,326 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 14:15:22,327 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_14-15-22.log
+2026-02-26 14:15:22,327 - INFO - ============================================================
+2026-02-26 14:15:23,123 - INFO - [ICON] Setting window icon...
+2026-02-26 14:15:23,125 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 14:15:23,130 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 14:15:23,131 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 14:15:23,173 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 14:15:23,302 - INFO - Loading settings...
+2026-02-26 14:15:23,303 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-02-26 14:15:23,303 - INFO - Auto-updater enabled
+2026-02-26 14:15:23,304 - INFO - Current version: 0.2.31
+2026-02-26 14:15:23,304 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 14:15:23,808 - INFO - Starting update check...
+2026-02-26 14:15:23,809 - INFO - Checking for updates...
+2026-02-26 14:15:23,809 - INFO - Current version: 0.2.31
+2026-02-26 14:15:23,809 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 14:15:24,267 - INFO - Response status: 200
+2026-02-26 14:15:24,267 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 14:15:24,268 - INFO - Version comparison:
+2026-02-26 14:15:24,268 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 14:15:24,268 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 14:15:24,268 - INFO -   Is newer? False
+2026-02-26 14:15:24,268 - INFO - Already on latest version: 0.2.31
+2026-02-26 14:15:45,855 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:15:45,856 - INFO - Parsing spreadsheet...
+2026-02-26 14:15:45,887 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:15:45,905 - INFO - Displayed 1 users in editable table
+2026-02-26 14:15:47,749 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:15:47,749 - INFO - Environment: PreProd
+2026-02-26 14:15:55,712 - INFO - ============================================================
+2026-02-26 14:15:55,713 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:15:55,713 - INFO - Environment: PreProd
+2026-02-26 14:15:55,714 - INFO - Users to add: 1
+2026-02-26 14:15:55,714 - INFO - ============================================================
+2026-02-26 14:15:56,974 - INFO - Logging in...
+2026-02-26 14:16:04,847 - INFO - Selecting program...
+2026-02-26 14:16:10,595 - INFO - Navigating to users page...
+2026-02-26 14:16:13,716 - INFO - Looking for Add User button...
+2026-02-26 14:16:16,757 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 14:16:16,758 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:16:21,368 - INFO - Browser will stay open for testing...
+2026-02-26 14:16:21,369 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:16:30,449 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:16:30,450 - INFO - Parsing spreadsheet...
+2026-02-26 14:16:32,513 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:16:32,519 - INFO - Displayed 1 users in editable table
+2026-02-26 14:16:33,664 - INFO - Starting SMS add users process for 1 selected users
+2026-02-26 14:16:34,918 - INFO - ============================================================
+2026-02-26 14:16:34,919 - INFO - SMS ADD USERS - Starting
+2026-02-26 14:16:34,919 - INFO - Users to add: 1
+2026-02-26 14:16:34,920 - INFO - ============================================================
+2026-02-26 14:16:36,202 - INFO - Logging in to SMS...
+2026-02-26 14:16:44,089 - INFO - Selecting program...
+2026-02-26 14:16:49,830 - INFO - Verifying dashboard...
+2026-02-26 14:16:49,847 - INFO - Navigating to users page...
+2026-02-26 14:16:52,951 - INFO - Looking for Add User button...
+2026-02-26 14:16:55,990 - INFO - Current URL: https://fe.smsclean.com/main/users/add-user
+2026-02-26 14:16:55,990 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:17:00,588 - INFO - Browser will stay open for testing...
+2026-02-26 14:17:00,588 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:17:16,512 - INFO - Environment changed to: Production
+2026-02-26 14:17:16,514 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 14:17:16,514 - INFO -   Dark Mode: False
+2026-02-26 14:17:16,514 - INFO -   Headless: False
+2026-02-26 14:17:16,515 - INFO -   Speed: 1.0
+2026-02-26 14:17:16,515 - INFO -   Environment: Production
+2026-02-26 14:17:23,965 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:17:23,966 - INFO - Parsing spreadsheet...
+2026-02-26 14:17:23,970 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:17:23,975 - INFO - Displayed 1 users in editable table
+2026-02-26 14:17:26,708 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:17:26,708 - INFO - Environment: Production
+2026-02-26 14:17:28,080 - INFO - ============================================================
+2026-02-26 14:17:28,080 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:17:28,080 - INFO - Environment: Production
+2026-02-26 14:17:28,080 - INFO - Users to add: 1
+2026-02-26 14:17:28,080 - INFO - ============================================================
+2026-02-26 14:17:29,285 - INFO - Logging in...
+2026-02-26 14:17:37,252 - INFO - Selecting program...
+2026-02-26 14:17:42,971 - INFO - Navigating to users page...
+2026-02-26 14:17:46,071 - INFO - Looking for Add User button...
+2026-02-26 14:17:49,113 - INFO - Current URL: https://fe.blockbyblock.com/main/users/add-user
+2026-02-26 14:17:49,113 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:17:53,767 - INFO - Browser will stay open for testing...
+2026-02-26 14:17:53,767 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:18:22,293 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:18:22,294 - INFO - Parsing spreadsheet...
+2026-02-26 14:18:22,300 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:18:22,308 - INFO - Displayed 1 users in editable table
+2026-02-26 14:18:29,861 - INFO - Starting SMS add users process for 1 selected users
+2026-02-26 14:18:31,336 - INFO - ============================================================
+2026-02-26 14:18:31,336 - INFO - SMS ADD USERS - Starting
+2026-02-26 14:18:31,336 - INFO - Users to add: 1
+2026-02-26 14:18:31,337 - INFO - ============================================================
+2026-02-26 14:18:32,735 - INFO - Logging in to SMS...
+2026-02-26 14:18:40,921 - INFO - Selecting program...
+2026-02-26 14:18:46,717 - INFO - Verifying dashboard...
+2026-02-26 14:18:46,765 - INFO - Navigating to users page...
+2026-02-26 14:18:49,997 - INFO - Looking for Add User button...
+2026-02-26 14:18:53,046 - INFO - Current URL: https://fe.smsclean.com/main/users/add-user
+2026-02-26 14:18:53,047 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:18:57,652 - INFO - Browser will stay open for testing...
+2026-02-26 14:18:57,652 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:19:42,946 - INFO - Environment changed to: PreProd
+2026-02-26 14:19:42,957 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 14:19:42,957 - INFO -   Dark Mode: False
+2026-02-26 14:19:42,958 - INFO -   Headless: False
+2026-02-26 14:19:42,958 - INFO -   Speed: 1.0
+2026-02-26 14:19:42,958 - INFO -   Environment: PreProd
+2026-02-26 14:19:49,761 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:19:49,762 - INFO - Parsing spreadsheet...
+2026-02-26 14:19:49,766 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:19:49,771 - INFO - Displayed 1 users in editable table
+2026-02-26 14:19:51,560 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:19:51,560 - INFO - Environment: PreProd
+2026-02-26 14:19:53,331 - INFO - ============================================================
+2026-02-26 14:19:53,332 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:19:53,332 - INFO - Environment: PreProd
+2026-02-26 14:19:53,332 - INFO - Users to add: 1
+2026-02-26 14:19:53,332 - INFO - ============================================================
+2026-02-26 14:19:54,622 - INFO - Logging in...
+2026-02-26 14:20:02,559 - INFO - Selecting program...
+2026-02-26 14:20:08,305 - INFO - Navigating to users page...
+2026-02-26 14:20:11,477 - INFO - Looking for Add User button...
+2026-02-26 14:20:14,526 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 14:20:14,526 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:20:19,127 - INFO - Browser will stay open for testing...
+2026-02-26 14:20:19,128 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:27:55,920 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:27:55,922 - INFO - Parsing spreadsheet...
+2026-02-26 14:27:55,931 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:27:55,946 - INFO - Displayed 1 users in editable table
+2026-02-26 14:29:58,910 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:29:58,911 - INFO - Environment: PreProd
+2026-02-26 14:30:00,766 - INFO - ============================================================
+2026-02-26 14:30:00,767 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:30:00,768 - INFO - Environment: PreProd
+2026-02-26 14:30:00,769 - INFO - Users to add: 1
+2026-02-26 14:30:00,770 - INFO - ============================================================
+2026-02-26 14:30:02,771 - INFO - Logging in...
+2026-02-26 14:30:11,665 - INFO - Selecting program...
+2026-02-26 14:30:17,725 - INFO - Navigating to users page...
+2026-02-26 14:30:20,957 - INFO - Looking for Add User button...
+2026-02-26 14:30:24,132 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 14:30:24,133 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:30:29,094 - INFO - Browser will stay open for testing...
+2026-02-26 14:30:29,095 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:33:29,132 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 14:33:29,133 - INFO -   Dark Mode: True
+2026-02-26 14:33:29,134 - INFO -   Headless: False
+2026-02-26 14:33:29,134 - INFO -   Speed: 1.0
+2026-02-26 14:33:29,134 - INFO -   Environment: PreProd
+2026-02-26 14:33:44,267 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 14:33:44,269 - INFO -   Dark Mode: False
+2026-02-26 14:33:44,270 - INFO -   Headless: False
+2026-02-26 14:33:44,271 - INFO -   Speed: 1.0
+2026-02-26 14:33:44,271 - INFO -   Environment: PreProd
+2026-02-26 14:35:53,558 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:35:53,559 - INFO - Parsing spreadsheet...
+2026-02-26 14:35:53,569 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:35:53,583 - INFO - Displayed 1 users in editable table
+2026-02-26 14:35:55,010 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:35:55,011 - INFO - Environment: PreProd
+2026-02-26 14:35:56,897 - INFO - ============================================================
+2026-02-26 14:35:56,898 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:35:56,898 - INFO - Environment: PreProd
+2026-02-26 14:35:56,898 - INFO - Users to add: 1
+2026-02-26 14:35:56,898 - INFO - ============================================================
+2026-02-26 14:35:58,213 - INFO - Logging in...
+2026-02-26 14:36:06,131 - INFO - Selecting program...
+2026-02-26 14:36:11,849 - INFO - Navigating to users page...
+2026-02-26 14:36:11,850 - ERROR - Error during add users: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d90bf3d5
+	0x7ff6d90bf430
+	0x7ff6d8e610bd
+	0x7ff6d8e4c642
+	0x7ff6d8e729cb
+	0x7ff6d8eed500
+	0x7ff6d8f09652
+	0x7ff6d8eacb0c
+	0x7ff6d8eada53
+	0x7ff6d939b470
+	0x7ff6d939586d
+	0x7ff6d93b621a
+	0x7ff6d90db235
+	0x7ff6d90e3a5c
+	0x7ff6d90c8844
+	0x7ff6d90c89f6
+	0x7ff6d90aeb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+2026-02-26 14:36:11,894 - ERROR - Traceback (most recent call last):
+  File "C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_ASSISTANT_FINAL.py", line 4903, in run_add_users
+    driver.get(get_url("/main/users", self.app))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 452, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d90bf3d5
+	0x7ff6d90bf430
+	0x7ff6d8e610bd
+	0x7ff6d8e4c642
+	0x7ff6d8e729cb
+	0x7ff6d8eed500
+	0x7ff6d8f09652
+	0x7ff6d8eacb0c
+	0x7ff6d8eada53
+	0x7ff6d939b470
+	0x7ff6d939586d
+	0x7ff6d93b621a
+	0x7ff6d90db235
+	0x7ff6d90e3a5c
+	0x7ff6d90c8844
+	0x7ff6d90c89f6
+	0x7ff6d90aeb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+
+2026-02-26 14:36:13,606 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-02-26 14:36:13,606 - INFO -   Dark Mode: True
+2026-02-26 14:36:13,606 - INFO -   Headless: False
+2026-02-26 14:36:13,606 - INFO -   Speed: 1.0
+2026-02-26 14:36:13,606 - INFO -   Environment: PreProd
+2026-02-26 14:36:18,261 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:36:18,261 - INFO - Parsing spreadsheet...
+2026-02-26 14:36:18,267 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:36:18,272 - INFO - Displayed 1 users in editable table
+2026-02-26 14:36:18,932 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:36:18,933 - INFO - Environment: PreProd
+2026-02-26 14:36:56,027 - INFO - ============================================================
+2026-02-26 14:36:56,028 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:36:56,028 - INFO - Environment: PreProd
+2026-02-26 14:36:56,028 - INFO - Users to add: 1
+2026-02-26 14:36:56,028 - INFO - ============================================================
+2026-02-26 14:36:57,326 - INFO - Logging in...
+2026-02-26 14:37:00,855 - ERROR - Error during add users: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d90bf3d5
+	0x7ff6d90bf430
+	0x7ff6d8e610bd
+	0x7ff6d8e4c642
+	0x7ff6d8e729cb
+	0x7ff6d8eed500
+	0x7ff6d8f09652
+	0x7ff6d8eacb0c
+	0x7ff6d8eada53
+	0x7ff6d939b470
+	0x7ff6d939586d
+	0x7ff6d93b621a
+	0x7ff6d90db235
+	0x7ff6d90e3a5c
+	0x7ff6d90c8844
+	0x7ff6d90c89f6
+	0x7ff6d90aeb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+2026-02-26 14:37:00,888 - ERROR - Traceback (most recent call last):
+  File "C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_ASSISTANT_FINAL.py", line 4866, in run_add_users
+    actions.send_keys(Keys.TAB).perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 96, in perform
+    self.w3c_actions.perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 148, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d90bf3d5
+	0x7ff6d90bf430
+	0x7ff6d8e610bd
+	0x7ff6d8e4c642
+	0x7ff6d8e729cb
+	0x7ff6d8eed500
+	0x7ff6d8f09652
+	0x7ff6d8eacb0c
+	0x7ff6d8eada53
+	0x7ff6d939b470
+	0x7ff6d939586d
+	0x7ff6d93b621a
+	0x7ff6d90db235
+	0x7ff6d90e3a5c
+	0x7ff6d90c8844
+	0x7ff6d90c89f6
+	0x7ff6d90aeb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+
+2026-02-26 14:37:03,481 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:37:03,482 - INFO - Parsing spreadsheet...
+2026-02-26 14:37:03,486 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:37:03,491 - INFO - Displayed 1 users in editable table
+2026-02-26 14:37:08,715 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:37:08,715 - INFO - Parsing spreadsheet...
+2026-02-26 14:37:08,719 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:37:08,725 - INFO - Displayed 1 users in editable table
+2026-02-26 14:37:10,312 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:37:10,312 - INFO - Environment: PreProd
+2026-02-26 14:37:12,882 - INFO - ============================================================
+2026-02-26 14:37:12,883 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:37:12,883 - INFO - Environment: PreProd
+2026-02-26 14:37:12,883 - INFO - Users to add: 1
+2026-02-26 14:37:12,883 - INFO - ============================================================
+2026-02-26 14:37:14,180 - INFO - Logging in...
+2026-02-26 14:37:17,746 - ERROR - Error during add users: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d90bf3d5
+	0x7ff6d90bf430
+	0x7ff6d8e610bd
+	0x7ff6d8e4c642
+	0x7ff6d8e729cb
+	0x7ff6d8eed500
+	0x7ff6d8f09652
+	0x7ff6d8eacb0c
+	0x7ff6d8eada53
+	0x7ff6d939b470
+	0x7ff6d939586d
+	0x7ff6d93b621a
+	0x7ff6d90db235
+	0x7ff6d90e3a5c
+	0x7ff6d90c8844
+	0x7ff6d90c89f6
+	0x7ff6d90aeb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+2026-02-26 14:37:17,747 - ERROR - Traceback (most recent call last):
+  File "C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_ASSISTANT_FINAL.py", line 4866, in run_add_users
+    actions.send_keys(Keys.TAB).perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\common\action_chains.py", line 96, in perform
+    self.w3c_actions.perform()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\common\actions\action_builder.py", line 148, in perform
+    self.driver.execute(Command.W3C_ACTIONS, enc)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\F_Johnson\AppData\Local\Programs\Python\Python314\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6d90bf3d5
+	0x7ff6d90bf430
+	0x7ff6d8e610bd
+	0x7ff6d8e4c642
+	0x7ff6d8e729cb
+	0x7ff6d8eed500
+	0x7ff6d8f09652
+	0x7ff6d8eacb0c
+	0x7ff6d8eada53
+	0x7ff6d939b470
+	0x7ff6d939586d
+	0x7ff6d93b621a
+	0x7ff6d90db235
+	0x7ff6d90e3a5c
+	0x7ff6d90c8844
+	0x7ff6d90c89f6
+	0x7ff6d90aeb87
+	0x7ff8a86be8d7
+	0x7ff8a91cc40c
+
+
+2026-02-26 14:37:25,995 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:37:25,996 - INFO - Parsing spreadsheet...
+2026-02-26 14:37:44,060 - INFO - ============================================================
+2026-02-26 14:37:44,060 - INFO - SMART Assistant v0.2.31 Starting...
+2026-02-26 14:37:44,060 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 14:37:44,060 - INFO - ============================================================
+2026-02-26 14:37:44,063 - INFO - ============================================================
+2026-02-26 14:37:44,063 - INFO - SMART Assistant v2.0.5 Starting
+2026-02-26 14:37:44,063 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-02-26_14-37-44.log
+2026-02-26 14:37:44,064 - INFO - ============================================================
+2026-02-26 14:37:44,829 - INFO - [ICON] Setting window icon...
+2026-02-26 14:37:44,830 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 14:37:44,836 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 14:37:44,836 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 14:37:44,872 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 14:37:44,982 - INFO - Loading settings...
+2026-02-26 14:37:44,983 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-02-26 14:37:44,983 - INFO - Auto-updater enabled
+2026-02-26 14:37:44,983 - INFO - Current version: 0.2.31
+2026-02-26 14:37:44,984 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 14:37:45,487 - INFO - Starting update check...
+2026-02-26 14:37:45,488 - INFO - Checking for updates...
+2026-02-26 14:37:45,488 - INFO - Current version: 0.2.31
+2026-02-26 14:37:45,488 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 14:37:45,916 - INFO - Response status: 200
+2026-02-26 14:37:45,916 - INFO - Latest version on GitHub: 0.2.30
+2026-02-26 14:37:45,917 - INFO - Version comparison:
+2026-02-26 14:37:45,917 - INFO -   Current: 0.2.31 = [0, 2, 31]
+2026-02-26 14:37:45,917 - INFO -   Latest:  0.2.30 = [0, 2, 30]
+2026-02-26 14:37:45,917 - INFO -   Is newer? False
+2026-02-26 14:37:45,917 - INFO - Already on latest version: 0.2.31
+2026-02-26 14:38:37,043 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:38:37,044 - INFO - Parsing spreadsheet...
+2026-02-26 14:38:37,052 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:38:37,061 - INFO - Displayed 1 users in editable table
+2026-02-26 14:39:00,604 - INFO - Starting add users process for 1 selected users
+2026-02-26 14:39:00,605 - INFO - Environment: PreProd
+2026-02-26 14:39:02,016 - INFO - ============================================================
+2026-02-26 14:39:02,017 - INFO - BBB ADD USERS - Starting
+2026-02-26 14:39:02,017 - INFO - Environment: PreProd
+2026-02-26 14:39:02,018 - INFO - Users to add: 1
+2026-02-26 14:39:02,018 - INFO - ============================================================
+2026-02-26 14:39:03,248 - INFO - Logging in...
+2026-02-26 14:39:11,122 - INFO - Selecting program...
+2026-02-26 14:39:16,868 - INFO - Navigating to users page...
+2026-02-26 14:39:19,959 - INFO - Looking for Add User button...
+2026-02-26 14:39:23,000 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 14:39:23,001 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:39:27,621 - INFO - Browser will stay open for testing...
+2026-02-26 14:39:27,622 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:41:35,418 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 14:41:35,419 - INFO - Parsing spreadsheet...
+2026-02-26 14:41:37,477 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 14:41:37,483 - INFO - Displayed 1 users in editable table
+2026-02-26 14:41:38,331 - INFO - Starting SMS add users process for 1 selected users
+2026-02-26 14:41:40,870 - INFO - ============================================================
+2026-02-26 14:41:40,870 - INFO - SMS ADD USERS - Starting
+2026-02-26 14:41:40,871 - INFO - Users to add: 1
+2026-02-26 14:41:40,871 - INFO - ============================================================
+2026-02-26 14:41:42,140 - INFO - Logging in to SMS...
+2026-02-26 14:41:50,409 - INFO - Selecting program...
+2026-02-26 14:41:56,113 - INFO - Verifying dashboard...
+2026-02-26 14:41:56,124 - INFO - Navigating to users page...
+2026-02-26 14:41:59,199 - INFO - Looking for Add User button...
+2026-02-26 14:42:02,238 - INFO - Current URL: https://fe.smsclean.com/main/users/add-user
+2026-02-26 14:42:02,239 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:42:06,844 - INFO - Browser will stay open for testing...
+2026-02-26 14:42:06,845 - INFO - Automation paused - close browser manually to continue
+2026-02-26 14:42:22,735 - INFO - Starting SMS add users process for 1 selected users
+2026-02-26 14:42:23,728 - INFO - ============================================================
+2026-02-26 14:42:23,728 - INFO - SMS ADD USERS - Starting
+2026-02-26 14:42:23,729 - INFO - Users to add: 1
+2026-02-26 14:42:23,729 - INFO - ============================================================
+2026-02-26 14:42:25,009 - INFO - Logging in to SMS...
+2026-02-26 14:42:32,881 - INFO - Selecting program...
+2026-02-26 14:42:38,579 - INFO - Verifying dashboard...
+2026-02-26 14:42:38,591 - INFO - Navigating to users page...
+2026-02-26 14:42:41,681 - INFO - Looking for Add User button...
+2026-02-26 14:42:44,717 - INFO - Current URL: https://fe.smsclean.com/main/users/add-user
+2026-02-26 14:42:44,718 - INFO - Navigating form with 9 tabs...
+2026-02-26 14:42:49,314 - INFO - Browser will stay open for testing...
+2026-02-26 14:42:49,315 - INFO - Automation paused - close browser manually to continue
+2026-02-26 15:08:33,870 - INFO - ============================================================
+2026-02-26 15:08:33,872 - INFO - SMART Assistant v0.2.30 Starting...
+2026-02-26 15:08:33,873 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 15:08:33,874 - INFO - ============================================================
+2026-02-26 15:08:34,090 - INFO - [ICON] Setting window icon...
+2026-02-26 15:08:34,092 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 15:08:34,096 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 15:08:34,097 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 15:08:34,099 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI153442\smartlogosmall.png
+2026-02-26 15:08:34,100 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 15:08:34,270 - INFO - Loading settings...
+2026-02-26 15:08:34,272 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-02-26 15:08:34,272 - INFO - Auto-updater enabled
+2026-02-26 15:08:34,273 - INFO - Current version: 0.2.30
+2026-02-26 15:08:34,273 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 15:08:34,785 - INFO - Starting update check...
+2026-02-26 15:08:34,786 - INFO - Checking for updates...
+2026-02-26 15:08:34,787 - INFO - Current version: 0.2.30
+2026-02-26 15:08:34,787 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 15:08:35,415 - INFO - Response status: 200
+2026-02-26 15:08:35,415 - INFO - Latest version on GitHub: 0.2.40
+2026-02-26 15:08:35,415 - INFO - Version comparison:
+2026-02-26 15:08:35,416 - INFO -   Current: 0.2.30 = [0, 2, 30]
+2026-02-26 15:08:35,416 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-02-26 15:08:35,416 - INFO -   Is newer? True
+2026-02-26 15:08:35,417 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.40/SMART_Assistant.exe
+2026-02-26 15:08:39,358 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.40/SMART_Assistant.exe
+2026-02-26 15:08:40,238 - INFO - Download size: 31168661 bytes
+2026-02-26 15:08:40,239 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-02-26 15:08:40,239 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-02-26 15:08:40,240 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-02-26 15:08:41,935 - INFO - Download complete: 31168661 bytes
+2026-02-26 15:08:53,558 - INFO - ============================================================
+2026-02-26 15:08:53,558 - INFO - SMART Assistant v0.2.40 Starting...
+2026-02-26 15:08:53,558 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 15:08:53,559 - INFO - ============================================================
+2026-02-26 15:08:53,703 - INFO - [ICON] Setting window icon...
+2026-02-26 15:08:53,703 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 15:08:53,706 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 15:08:53,707 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 15:08:53,707 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI131402\smartlogosmall.png
+2026-02-26 15:08:53,707 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 15:08:53,821 - INFO - Loading settings...
+2026-02-26 15:08:53,822 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-02-26 15:08:53,822 - INFO - Auto-updater enabled
+2026-02-26 15:08:53,822 - INFO - Current version: 0.2.40
+2026-02-26 15:08:53,822 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 15:08:54,334 - INFO - Starting update check...
+2026-02-26 15:08:54,335 - INFO - Checking for updates...
+2026-02-26 15:08:54,335 - INFO - Current version: 0.2.40
+2026-02-26 15:08:54,335 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 15:08:54,838 - INFO - Response status: 200
+2026-02-26 15:08:54,838 - INFO - Latest version on GitHub: 0.2.40
+2026-02-26 15:08:54,838 - INFO - Version comparison:
+2026-02-26 15:08:54,838 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-02-26 15:08:54,838 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-02-26 15:08:54,838 - INFO -   Is newer? False
+2026-02-26 15:08:54,838 - INFO - Already on latest version: 0.2.40
+2026-02-26 15:09:04,725 - INFO - Saved credentials (Remember Me checked)
+2026-02-26 15:09:19,277 - INFO - Selected spreadsheet: C:/Users/F_Johnson/OneDrive - SMS Holdings Corporation/Desktop/SMART-Assistant/WorkinHere/CVG Employee List.xlsx
+2026-02-26 15:09:19,278 - INFO - Parsing spreadsheet...
+2026-02-26 15:09:19,297 - INFO - Parsed 1 users from spreadsheet
+2026-02-26 15:09:19,309 - INFO - Displayed 1 users in editable table
+2026-02-26 15:09:20,585 - INFO - Starting add users process for 1 selected users
+2026-02-26 15:09:20,586 - INFO - Environment: PreProd
+2026-02-26 15:09:21,730 - INFO - ============================================================
+2026-02-26 15:09:21,731 - INFO - BBB ADD USERS - Starting
+2026-02-26 15:09:21,731 - INFO - Environment: PreProd
+2026-02-26 15:09:21,731 - INFO - Users to add: 1
+2026-02-26 15:09:21,731 - INFO - ============================================================
+2026-02-26 15:09:23,045 - INFO - Logging in...
+2026-02-26 15:09:31,791 - INFO - Selecting program...
+2026-02-26 15:09:37,515 - INFO - Navigating to users page...
+2026-02-26 15:09:40,618 - INFO - Looking for Add User button...
+2026-02-26 15:09:43,664 - INFO - Current URL: https://preprodfe.blockbyblock.com/main/users/add-user
+2026-02-26 15:09:43,665 - INFO - Navigating form with 9 tabs...
+2026-02-26 15:09:48,276 - INFO - Adding user: Frank Tester
+2026-02-26 15:10:03,699 - INFO - Clicking Save button...
+2026-02-26 15:10:06,730 - INFO - Browser will stay open for testing...
+2026-02-26 15:10:06,730 - INFO - Automation paused - close browser manually to continue
+2026-02-26 15:10:30,330 - INFO - ============================================================
+2026-02-26 15:10:30,331 - INFO - SMART Assistant v0.2.40 Starting...
+2026-02-26 15:10:30,332 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-02-26 15:10:30,332 - INFO - ============================================================
+2026-02-26 15:10:30,493 - INFO - [ICON] Setting window icon...
+2026-02-26 15:10:30,494 - INFO - [ICON] Set Windows AppUserModelID
+2026-02-26 15:10:30,497 - INFO - [ICON] Trying 3 icon paths...
+2026-02-26 15:10:30,498 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-02-26 15:10:30,499 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI190202\smartlogosmall.png
+2026-02-26 15:10:30,500 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-02-26 15:10:30,608 - INFO - Loading settings...
+2026-02-26 15:10:30,609 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-02-26 15:10:30,610 - INFO - Auto-updater enabled
+2026-02-26 15:10:30,610 - INFO - Current version: 0.2.40
+2026-02-26 15:10:30,610 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-02-26 15:10:31,113 - INFO - Starting update check...
+2026-02-26 15:10:31,113 - INFO - Checking for updates...
+2026-02-26 15:10:31,114 - INFO - Current version: 0.2.40
+2026-02-26 15:10:31,114 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-02-26 15:10:31,565 - INFO - Response status: 200
+2026-02-26 15:10:31,565 - INFO - Latest version on GitHub: 0.2.40
+2026-02-26 15:10:31,565 - INFO - Version comparison:
+2026-02-26 15:10:31,565 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-02-26 15:10:31,565 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-02-26 15:10:31,565 - INFO -   Is newer? False
+2026-02-26 15:10:31,565 - INFO - Already on latest version: 0.2.40
+2026-02-26 15:10:32,526 - INFO - Loaded saved credentials
+2026-03-04 09:28:07,781 - INFO - ============================================================
+2026-03-04 09:28:07,782 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-04 09:28:07,783 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-04 09:28:07,783 - INFO - ============================================================
+2026-03-04 09:28:08,120 - INFO - [ICON] Setting window icon...
+2026-03-04 09:28:08,121 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-04 09:28:08,126 - INFO - [ICON] Trying 3 icon paths...
+2026-03-04 09:28:08,126 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-04 09:28:08,127 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI392162\smartlogosmall.png
+2026-03-04 09:28:08,127 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-04 09:28:08,291 - INFO - Loading settings...
+2026-03-04 09:28:08,292 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-03-04 09:28:08,293 - INFO - Auto-updater enabled
+2026-03-04 09:28:08,294 - INFO - Current version: 0.2.40
+2026-03-04 09:28:08,294 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-04 09:28:08,801 - INFO - Starting update check...
+2026-03-04 09:28:08,802 - INFO - Checking for updates...
+2026-03-04 09:28:08,802 - INFO - Current version: 0.2.40
+2026-03-04 09:28:08,802 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-04 09:28:09,248 - INFO - Response status: 200
+2026-03-04 09:28:09,248 - INFO - Latest version on GitHub: 0.2.40
+2026-03-04 09:28:09,249 - INFO - Version comparison:
+2026-03-04 09:28:09,250 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-04 09:28:09,250 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-03-04 09:28:09,252 - INFO -   Is newer? False
+2026-03-04 09:28:09,252 - INFO - Already on latest version: 0.2.40
+2026-03-04 09:28:10,276 - INFO - Loaded saved credentials
+2026-03-04 09:28:11,739 - INFO - Saved credentials (Remember Me checked)
+2026-03-04 09:29:36,012 - INFO - Environment changed to: Production
+2026-03-04 09:29:36,023 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-04 09:29:36,024 - INFO -   Dark Mode: True
+2026-03-04 09:29:36,024 - INFO -   Headless: False
+2026-03-04 09:29:36,024 - INFO -   Speed: 1.0
+2026-03-04 09:29:36,025 - INFO -   Environment: Production
+2026-03-04 10:18:24,536 - INFO - ============================================================
+2026-03-04 10:18:24,538 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-04 10:18:24,538 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-04 10:18:24,538 - INFO - ============================================================
+2026-03-04 10:18:24,726 - INFO - [ICON] Setting window icon...
+2026-03-04 10:18:24,727 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-04 10:18:24,728 - INFO - [ICON] Trying 3 icon paths...
+2026-03-04 10:18:24,729 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-04 10:18:24,729 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI378562\smartlogosmall.png
+2026-03-04 10:18:24,729 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-04 10:18:24,771 - INFO - Loading settings...
+2026-03-04 10:18:24,771 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-04 10:18:24,771 - INFO - Auto-updater enabled
+2026-03-04 10:18:24,771 - INFO - Current version: 0.2.40
+2026-03-04 10:18:24,771 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-04 10:18:25,286 - INFO - Starting update check...
+2026-03-04 10:18:25,286 - INFO - Checking for updates...
+2026-03-04 10:18:25,287 - INFO - Current version: 0.2.40
+2026-03-04 10:18:25,287 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-04 10:18:25,719 - INFO - Response status: 200
+2026-03-04 10:18:25,719 - INFO - Latest version on GitHub: 0.2.40
+2026-03-04 10:18:25,719 - INFO - Version comparison:
+2026-03-04 10:18:25,719 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-04 10:18:25,719 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-03-04 10:18:25,720 - INFO -   Is newer? False
+2026-03-04 10:18:25,720 - INFO - Already on latest version: 0.2.40
+2026-03-04 10:18:26,682 - INFO - Loaded saved credentials
+2026-03-04 10:18:28,140 - INFO - Saved credentials (Remember Me checked)
+2026-03-09 12:25:09,979 - INFO - ============================================================
+2026-03-09 12:25:09,981 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-09 12:25:09,981 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-09 12:25:09,981 - INFO - ============================================================
+2026-03-09 12:25:10,153 - INFO - [ICON] Setting window icon...
+2026-03-09 12:25:10,154 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-09 12:25:10,156 - INFO - [ICON] Trying 3 icon paths...
+2026-03-09 12:25:10,157 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-09 12:25:10,157 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI336802\smartlogosmall.png
+2026-03-09 12:25:10,157 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-09 12:25:10,216 - INFO - Loading settings...
+2026-03-09 12:25:10,217 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-09 12:25:10,217 - INFO - Auto-updater enabled
+2026-03-09 12:25:10,217 - INFO - Current version: 0.2.40
+2026-03-09 12:25:10,217 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-09 12:25:10,728 - INFO - Starting update check...
+2026-03-09 12:25:10,729 - INFO - Checking for updates...
+2026-03-09 12:25:10,730 - INFO - Current version: 0.2.40
+2026-03-09 12:25:10,730 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-09 12:25:11,171 - INFO - Response status: 200
+2026-03-09 12:25:11,172 - INFO - Latest version on GitHub: 0.2.40
+2026-03-09 12:25:11,173 - INFO - Version comparison:
+2026-03-09 12:25:11,173 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-09 12:25:11,173 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-03-09 12:25:11,173 - INFO -   Is newer? False
+2026-03-09 12:25:11,173 - INFO - Already on latest version: 0.2.40
+2026-03-09 12:25:12,137 - INFO - Loaded saved credentials
+2026-03-09 12:25:13,588 - INFO - Saved credentials (Remember Me checked)
+2026-03-09 12:27:06,854 - INFO - Automation speed changed to: 0.5x (actual: 0.5)
+2026-03-09 12:27:06,856 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-09 12:27:06,857 - INFO -   Dark Mode: True
+2026-03-09 12:27:06,857 - INFO -   Headless: False
+2026-03-09 12:27:06,857 - INFO -   Speed: 0.5
+2026-03-09 12:27:06,857 - INFO -   Environment: Production
+2026-03-10 10:14:53,887 - INFO - ============================================================
+2026-03-10 10:14:53,889 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-10 10:14:53,890 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-10 10:14:53,890 - INFO - ============================================================
+2026-03-10 10:14:54,059 - INFO - [ICON] Setting window icon...
+2026-03-10 10:14:54,060 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-10 10:14:54,063 - INFO - [ICON] Trying 3 icon paths...
+2026-03-10 10:14:54,063 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-10 10:14:54,064 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI300842\smartlogosmall.png
+2026-03-10 10:14:54,064 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-10 10:14:54,551 - INFO - Loading settings...
+2026-03-10 10:14:54,552 - INFO - Settings loaded - Headless: False, Speed: 0.5, Environment: Production
+2026-03-10 10:14:54,552 - INFO - Auto-updater enabled
+2026-03-10 10:14:54,552 - INFO - Current version: 0.2.40
+2026-03-10 10:14:54,552 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-10 10:14:55,059 - INFO - Starting update check...
+2026-03-10 10:14:55,060 - INFO - Checking for updates...
+2026-03-10 10:14:55,061 - INFO - Current version: 0.2.40
+2026-03-10 10:14:55,061 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-10 10:14:55,482 - INFO - Response status: 200
+2026-03-10 10:14:55,482 - INFO - Latest version on GitHub: 0.2.40
+2026-03-10 10:14:55,483 - INFO - Version comparison:
+2026-03-10 10:14:55,483 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-10 10:14:55,483 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-03-10 10:14:55,483 - INFO -   Is newer? False
+2026-03-10 10:14:55,483 - INFO - Already on latest version: 0.2.40
+2026-03-10 10:14:56,496 - INFO - Loaded saved credentials
+2026-03-10 10:14:57,608 - INFO - Saved credentials (Remember Me checked)
+2026-03-10 10:15:14,115 - INFO - ============================================================
+2026-03-10 10:15:14,115 - INFO - USER SCAN STARTED - Inactive 120+ days
+2026-03-10 10:15:14,115 - INFO - Settings: Headless=False, Speed=0.5, Environment=Production
+2026-03-10 10:15:14,116 - INFO - ============================================================
+2026-03-10 10:17:55,276 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-10 10:17:55,276 - INFO -   Dark Mode: True
+2026-03-10 10:17:55,276 - INFO -   Headless: False
+2026-03-10 10:17:55,277 - INFO -   Speed: 0.5
+2026-03-10 10:17:55,277 - INFO -   Environment: Production
+2026-03-10 11:33:03,099 - INFO - ============================================================
+2026-03-10 11:33:03,102 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-10 11:33:03,103 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-10 11:33:03,103 - INFO - ============================================================
+2026-03-10 11:33:03,409 - INFO - [ICON] Setting window icon...
+2026-03-10 11:33:03,411 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-10 11:33:03,415 - INFO - [ICON] Trying 3 icon paths...
+2026-03-10 11:33:03,415 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-10 11:33:03,416 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI334362\smartlogosmall.png
+2026-03-10 11:33:03,417 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-10 11:33:04,255 - INFO - Loading settings...
+2026-03-10 11:33:04,256 - INFO - Settings loaded - Headless: False, Speed: 0.5, Environment: Production
+2026-03-10 11:33:04,256 - INFO - Auto-updater enabled
+2026-03-10 11:33:04,256 - INFO - Current version: 0.2.40
+2026-03-10 11:33:04,256 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-10 11:33:04,756 - INFO - Starting update check...
+2026-03-10 11:33:04,757 - INFO - Checking for updates...
+2026-03-10 11:33:04,757 - INFO - Current version: 0.2.40
+2026-03-10 11:33:04,758 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-10 11:33:05,366 - INFO - Response status: 200
+2026-03-10 11:33:05,366 - INFO - Latest version on GitHub: 0.2.40
+2026-03-10 11:33:05,366 - INFO - Version comparison:
+2026-03-10 11:33:05,366 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-10 11:33:05,366 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-03-10 11:33:05,366 - INFO -   Is newer? False
+2026-03-10 11:33:05,366 - INFO - Already on latest version: 0.2.40
+2026-03-10 11:33:06,392 - INFO - Loaded saved credentials
+2026-03-10 15:44:23,738 - INFO - ============================================================
+2026-03-10 15:44:23,740 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-10 15:44:23,741 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-10 15:44:23,741 - INFO - ============================================================
+2026-03-10 15:44:23,933 - INFO - [ICON] Setting window icon...
+2026-03-10 15:44:23,934 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-10 15:44:23,939 - INFO - [ICON] Trying 3 icon paths...
+2026-03-10 15:44:23,939 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-10 15:44:23,940 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI166802\smartlogosmall.png
+2026-03-10 15:44:23,941 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-10 15:44:24,022 - INFO - Loading settings...
+2026-03-10 15:44:24,024 - INFO - Settings loaded - Headless: False, Speed: 0.5, Environment: Production
+2026-03-10 15:44:24,025 - INFO - Auto-updater enabled
+2026-03-10 15:44:24,026 - INFO - Current version: 0.2.40
+2026-03-10 15:44:24,026 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-10 15:44:24,538 - INFO - Starting update check...
+2026-03-10 15:44:24,540 - INFO - Checking for updates...
+2026-03-10 15:44:24,541 - INFO - Current version: 0.2.40
+2026-03-10 15:44:24,541 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-10 15:44:25,200 - INFO - Response status: 200
+2026-03-10 15:44:25,201 - INFO - Latest version on GitHub: 0.2.40
+2026-03-10 15:44:25,201 - INFO - Version comparison:
+2026-03-10 15:44:25,202 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-10 15:44:25,202 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-03-10 15:44:25,203 - INFO -   Is newer? False
+2026-03-10 15:44:25,203 - INFO - Already on latest version: 0.2.40
+2026-03-10 15:44:26,167 - INFO - Loaded saved credentials
+2026-03-10 15:44:27,875 - INFO - Saved credentials (Remember Me checked)
+2026-03-10 15:44:54,599 - INFO - Saved credentials (Remember Me checked)
+2026-03-10 15:45:17,240 - INFO - Automation speed changed to: 0.75x (actual: 0.75)
+2026-03-10 15:45:17,241 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-10 15:45:17,242 - INFO -   Dark Mode: True
+2026-03-10 15:45:17,242 - INFO -   Headless: False
+2026-03-10 15:45:17,242 - INFO -   Speed: 0.75
+2026-03-10 15:45:17,243 - INFO -   Environment: Production
+2026-03-11 09:23:29,300 - INFO - ============================================================
+2026-03-11 09:23:29,301 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-11 09:23:29,301 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 09:23:29,301 - INFO - ============================================================
+2026-03-11 09:23:29,419 - INFO - [ICON] Setting window icon...
+2026-03-11 09:23:29,420 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 09:23:29,424 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 09:23:29,424 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 09:23:29,424 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI26042\smartlogosmall.png
+2026-03-11 09:23:29,425 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 09:23:29,475 - INFO - Loading settings...
+2026-03-11 09:23:29,476 - INFO - Settings loaded - Headless: False, Speed: 0.75, Environment: Production
+2026-03-11 09:23:29,476 - INFO - Auto-updater enabled
+2026-03-11 09:23:29,476 - INFO - Current version: 0.2.40
+2026-03-11 09:23:29,477 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 09:23:29,978 - INFO - Starting update check...
+2026-03-11 09:23:29,979 - INFO - Checking for updates...
+2026-03-11 09:23:29,980 - INFO - Current version: 0.2.40
+2026-03-11 09:23:29,980 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 09:23:31,052 - INFO - Response status: 200
+2026-03-11 09:23:31,052 - INFO - Latest version on GitHub: 0.2.40
+2026-03-11 09:23:31,052 - INFO - Version comparison:
+2026-03-11 09:23:31,052 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-11 09:23:31,053 - INFO -   Latest:  0.2.40 = [0, 2, 40]
+2026-03-11 09:23:31,053 - INFO -   Is newer? False
+2026-03-11 09:23:31,053 - INFO - Already on latest version: 0.2.40
+2026-03-11 09:23:31,394 - INFO - Loaded saved credentials
+2026-03-11 09:23:32,821 - INFO - Saved credentials (Remember Me checked)
+2026-03-11 12:15:46,867 - INFO - ============================================================
+2026-03-11 12:15:46,869 - INFO - SMART Assistant v0.2.40 Starting...
+2026-03-11 12:15:46,869 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 12:15:46,869 - INFO - ============================================================
+2026-03-11 12:15:46,983 - INFO - [ICON] Setting window icon...
+2026-03-11 12:15:46,984 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 12:15:46,986 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 12:15:46,987 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 12:15:46,987 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI161642\smartlogosmall.png
+2026-03-11 12:15:46,987 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 12:15:47,023 - INFO - Loading settings...
+2026-03-11 12:15:47,024 - INFO - Settings loaded - Headless: False, Speed: 0.75, Environment: Production
+2026-03-11 12:15:47,025 - INFO - Auto-updater enabled
+2026-03-11 12:15:47,025 - INFO - Current version: 0.2.40
+2026-03-11 12:15:47,025 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 12:15:47,529 - INFO - Starting update check...
+2026-03-11 12:15:47,530 - INFO - Checking for updates...
+2026-03-11 12:15:47,530 - INFO - Current version: 0.2.40
+2026-03-11 12:15:47,530 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 12:15:47,918 - INFO - Response status: 200
+2026-03-11 12:15:47,918 - INFO - Latest version on GitHub: 0.2.41
+2026-03-11 12:15:47,919 - INFO - Version comparison:
+2026-03-11 12:15:47,919 - INFO -   Current: 0.2.40 = [0, 2, 40]
+2026-03-11 12:15:47,919 - INFO -   Latest:  0.2.41 = [0, 2, 41]
+2026-03-11 12:15:47,919 - INFO -   Is newer? True
+2026-03-11 12:15:47,919 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.41/SMART_Assistant.exe
+2026-03-11 12:15:48,566 - INFO - Loaded saved credentials
+2026-03-11 12:15:51,613 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.41/SMART_Assistant.exe
+2026-03-11 12:15:52,468 - INFO - Download size: 31169887 bytes
+2026-03-11 12:15:52,468 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-03-11 12:15:52,468 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-03-11 12:15:52,470 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-03-11 12:15:53,819 - INFO - Download complete: 31169887 bytes
+2026-03-11 12:16:02,624 - INFO - ============================================================
+2026-03-11 12:16:02,624 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-11 12:16:02,624 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 12:16:02,624 - INFO - ============================================================
+2026-03-11 12:16:02,714 - INFO - [ICON] Setting window icon...
+2026-03-11 12:16:02,715 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 12:16:02,718 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 12:16:02,718 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 12:16:02,719 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI180082\smartlogosmall.png
+2026-03-11 12:16:02,719 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 12:16:02,738 - INFO - Loading settings...
+2026-03-11 12:16:02,739 - INFO - Settings loaded - Headless: False, Speed: 0.75, Environment: Production
+2026-03-11 12:16:02,739 - INFO - Auto-updater enabled
+2026-03-11 12:16:02,739 - INFO - Current version: 0.2.41
+2026-03-11 12:16:02,739 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 12:16:03,252 - INFO - Starting update check...
+2026-03-11 12:16:03,253 - INFO - Checking for updates...
+2026-03-11 12:16:03,254 - INFO - Current version: 0.2.41
+2026-03-11 12:16:03,254 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 12:16:03,552 - INFO - Response status: 200
+2026-03-11 12:16:03,553 - INFO - Latest version on GitHub: 0.2.41
+2026-03-11 12:16:03,553 - INFO - Version comparison:
+2026-03-11 12:16:03,553 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-11 12:16:03,553 - INFO -   Latest:  0.2.41 = [0, 2, 41]
+2026-03-11 12:16:03,554 - INFO -   Is newer? False
+2026-03-11 12:16:03,554 - INFO - Already on latest version: 0.2.41
+2026-03-11 12:16:04,547 - INFO - Loaded saved credentials
+2026-03-11 12:16:11,539 - INFO - Saved credentials (Remember Me checked)
+2026-03-11 12:17:04,820 - INFO - Environment changed to: PreProd
+2026-03-11 12:17:04,822 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:17:04,822 - INFO -   Dark Mode: True
+2026-03-11 12:17:04,822 - INFO -   Headless: False
+2026-03-11 12:17:04,822 - INFO -   Speed: 0.75
+2026-03-11 12:17:04,822 - INFO -   Environment: PreProd
+2026-03-11 12:17:06,872 - INFO - Automation speed changed to: 1x (actual: 1.0)
+2026-03-11 12:17:06,873 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:17:06,874 - INFO -   Dark Mode: True
+2026-03-11 12:17:06,875 - INFO -   Headless: False
+2026-03-11 12:17:06,875 - INFO -   Speed: 1.0
+2026-03-11 12:17:06,875 - INFO -   Environment: PreProd
+2026-03-11 12:17:16,431 - INFO - Environment changed to: Production
+2026-03-11 12:17:16,433 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:17:16,433 - INFO -   Dark Mode: True
+2026-03-11 12:17:16,433 - INFO -   Headless: False
+2026-03-11 12:17:16,433 - INFO -   Speed: 1.0
+2026-03-11 12:17:16,433 - INFO -   Environment: Production
+2026-03-11 12:17:20,002 - INFO - ============================================================
+2026-03-11 12:17:20,002 - INFO - USER SCAN STARTED - Inactive 120+ days
+2026-03-11 12:17:20,003 - INFO - Settings: Headless=False, Speed=1.0, Environment=Production
+2026-03-11 12:17:20,003 - INFO - ============================================================
+2026-03-11 12:19:14,151 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:19:14,151 - INFO -   Dark Mode: True
+2026-03-11 12:19:14,152 - INFO -   Headless: False
+2026-03-11 12:19:14,152 - INFO -   Speed: 1.0
+2026-03-11 12:19:14,152 - INFO -   Environment: Production
+2026-03-11 12:42:20,596 - INFO - ============================================================
+2026-03-11 12:42:20,596 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-11 12:42:20,597 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 12:42:20,597 - INFO - ============================================================
+2026-03-11 12:42:20,600 - INFO - ============================================================
+2026-03-11 12:42:20,601 - INFO - SMART Assistant v2.0.5 Starting
+2026-03-11 12:42:20,601 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-03-11_12-42-20.log
+2026-03-11 12:42:20,601 - INFO - ============================================================
+2026-03-11 12:42:21,504 - INFO - [ICON] Setting window icon...
+2026-03-11 12:42:21,505 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 12:42:21,508 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 12:42:21,509 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 12:42:21,536 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 12:42:21,589 - INFO - Loading settings...
+2026-03-11 12:42:21,589 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-11 12:42:21,590 - INFO - Auto-updater enabled
+2026-03-11 12:42:21,590 - INFO - Current version: 0.2.41
+2026-03-11 12:42:21,590 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 12:42:22,097 - INFO - Starting update check...
+2026-03-11 12:42:22,099 - INFO - Checking for updates...
+2026-03-11 12:42:22,099 - INFO - Current version: 0.2.41
+2026-03-11 12:42:22,100 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 12:42:22,506 - INFO - Response status: 200
+2026-03-11 12:42:22,506 - INFO - Latest version on GitHub: 0.2.41
+2026-03-11 12:42:22,507 - INFO - Version comparison:
+2026-03-11 12:42:22,507 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-11 12:42:22,508 - INFO -   Latest:  0.2.41 = [0, 2, 41]
+2026-03-11 12:42:22,508 - INFO -   Is newer? False
+2026-03-11 12:42:22,508 - INFO - Already on latest version: 0.2.41
+2026-03-11 12:42:23,370 - INFO - Loaded saved credentials
+2026-03-11 12:42:24,706 - INFO - Saved credentials (Remember Me checked)
+2026-03-11 12:42:36,912 - INFO - Environment changed to: PreProd
+2026-03-11 12:42:36,914 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:42:36,915 - INFO -   Dark Mode: True
+2026-03-11 12:42:36,915 - INFO -   Headless: False
+2026-03-11 12:42:36,915 - INFO -   Speed: 1.0
+2026-03-11 12:42:36,915 - INFO -   Environment: PreProd
+2026-03-11 12:47:27,814 - INFO - ============================================================
+2026-03-11 12:47:27,814 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-11 12:47:27,814 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 12:47:27,815 - INFO - ============================================================
+2026-03-11 12:47:27,816 - INFO - ============================================================
+2026-03-11 12:47:27,817 - INFO - SMART Assistant v2.0.5 Starting
+2026-03-11 12:47:27,817 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-03-11_12-47-27.log
+2026-03-11 12:47:27,817 - INFO - ============================================================
+2026-03-11 12:47:27,908 - INFO - [ICON] Setting window icon...
+2026-03-11 12:47:27,909 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 12:47:27,911 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 12:47:27,912 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 12:47:27,917 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 12:47:27,954 - INFO - Loading settings...
+2026-03-11 12:47:27,955 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: PreProd
+2026-03-11 12:47:27,955 - INFO - Auto-updater enabled
+2026-03-11 12:47:27,956 - INFO - Current version: 0.2.41
+2026-03-11 12:47:27,956 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 12:47:28,463 - INFO - Starting update check...
+2026-03-11 12:47:28,465 - INFO - Checking for updates...
+2026-03-11 12:47:28,465 - INFO - Current version: 0.2.41
+2026-03-11 12:47:28,465 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 12:47:28,842 - INFO - Response status: 200
+2026-03-11 12:47:28,843 - INFO - Latest version on GitHub: 0.2.41
+2026-03-11 12:47:28,843 - INFO - Version comparison:
+2026-03-11 12:47:28,844 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-11 12:47:28,844 - INFO -   Latest:  0.2.41 = [0, 2, 41]
+2026-03-11 12:47:28,844 - INFO -   Is newer? False
+2026-03-11 12:47:28,844 - INFO - Already on latest version: 0.2.41
+2026-03-11 12:47:29,702 - INFO - Loaded saved credentials
+2026-03-11 12:47:31,300 - INFO - Saved credentials (Remember Me checked)
+2026-03-11 12:48:45,678 - INFO - Environment changed to: Production
+2026-03-11 12:48:45,681 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:48:45,681 - INFO -   Dark Mode: True
+2026-03-11 12:48:45,682 - INFO -   Headless: False
+2026-03-11 12:48:45,682 - INFO -   Speed: 1.0
+2026-03-11 12:48:45,682 - INFO -   Environment: Production
+2026-03-11 12:54:03,137 - INFO - ============================================================
+2026-03-11 12:54:03,137 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-11 12:54:03,137 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 12:54:03,138 - INFO - ============================================================
+2026-03-11 12:54:03,142 - INFO - ============================================================
+2026-03-11 12:54:03,143 - INFO - SMART Assistant v2.0.5 Starting
+2026-03-11 12:54:03,144 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-03-11_12-54-03.log
+2026-03-11 12:54:03,144 - INFO - ============================================================
+2026-03-11 12:54:03,932 - INFO - [ICON] Setting window icon...
+2026-03-11 12:54:03,932 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 12:54:03,934 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 12:54:03,934 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 12:54:03,967 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 12:54:04,016 - INFO - Loading settings...
+2026-03-11 12:54:04,016 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-11 12:54:04,016 - INFO - Auto-updater enabled
+2026-03-11 12:54:04,016 - INFO - Current version: 0.2.41
+2026-03-11 12:54:04,016 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 12:54:04,516 - INFO - Starting update check...
+2026-03-11 12:54:04,517 - INFO - Checking for updates...
+2026-03-11 12:54:04,517 - INFO - Current version: 0.2.41
+2026-03-11 12:54:04,517 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 12:54:04,904 - INFO - Response status: 200
+2026-03-11 12:54:04,904 - INFO - Latest version on GitHub: 0.2.41
+2026-03-11 12:54:04,905 - INFO - Version comparison:
+2026-03-11 12:54:04,905 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-11 12:54:04,905 - INFO -   Latest:  0.2.41 = [0, 2, 41]
+2026-03-11 12:54:04,905 - INFO -   Is newer? False
+2026-03-11 12:54:04,905 - INFO - Already on latest version: 0.2.41
+2026-03-11 12:54:05,821 - INFO - Loaded saved credentials
+2026-03-11 12:54:07,147 - INFO - Saved credentials (Remember Me checked)
+2026-03-11 12:55:09,300 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:55:09,301 - INFO -   Dark Mode: True
+2026-03-11 12:55:09,301 - INFO -   Headless: False
+2026-03-11 12:55:09,302 - INFO -   Speed: 1.0
+2026-03-11 12:55:09,302 - INFO -   Environment: Production
+2026-03-11 12:55:09,302 - INFO - Added custom filter (exact): rradawec
+2026-03-11 12:55:28,878 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:55:28,879 - INFO -   Dark Mode: True
+2026-03-11 12:55:28,879 - INFO -   Headless: False
+2026-03-11 12:55:28,879 - INFO -   Speed: 1.0
+2026-03-11 12:55:28,880 - INFO -   Environment: Production
+2026-03-11 12:55:28,880 - INFO - Added custom filter (exact): 0000hwoods
+2026-03-11 12:55:33,588 - INFO - ============================================================
+2026-03-11 12:55:33,588 - INFO - USER SCAN STARTED - Inactive 120+ days
+2026-03-11 12:55:33,589 - INFO - Settings: Headless=False, Speed=1.0, Environment=Production
+2026-03-11 12:55:33,589 - INFO - Custom filters: ['rradawec', '0000hwoods']
+2026-03-11 12:55:33,589 - INFO - ============================================================
+2026-03-11 12:57:32,411 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 12:57:32,412 - INFO -   Dark Mode: True
+2026-03-11 12:57:32,412 - INFO -   Headless: False
+2026-03-11 12:57:32,413 - INFO -   Speed: 1.0
+2026-03-11 12:57:32,413 - INFO -   Environment: Production
+2026-03-11 13:04:03,485 - INFO - ============================================================
+2026-03-11 13:04:03,487 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-11 13:04:03,488 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 13:04:03,490 - INFO - ============================================================
+2026-03-11 13:04:03,493 - INFO - ============================================================
+2026-03-11 13:04:03,494 - INFO - SMART Assistant v2.0.5 Starting
+2026-03-11 13:04:03,495 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-03-11_13-04-03.log
+2026-03-11 13:04:03,495 - INFO - ============================================================
+2026-03-11 13:04:04,369 - INFO - [ICON] Setting window icon...
+2026-03-11 13:04:04,369 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 13:04:04,372 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 13:04:04,373 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 13:04:04,404 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 13:04:04,457 - INFO - Loading settings...
+2026-03-11 13:04:04,458 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-11 13:04:04,458 - INFO - Auto-updater enabled
+2026-03-11 13:04:04,458 - INFO - Current version: 0.2.41
+2026-03-11 13:04:04,458 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 13:04:04,959 - INFO - Starting update check...
+2026-03-11 13:04:04,960 - INFO - Checking for updates...
+2026-03-11 13:04:04,960 - INFO - Current version: 0.2.41
+2026-03-11 13:04:04,960 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 13:04:05,449 - INFO - Response status: 200
+2026-03-11 13:04:05,450 - INFO - Latest version on GitHub: 0.2.41
+2026-03-11 13:04:05,450 - INFO - Version comparison:
+2026-03-11 13:04:05,450 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-11 13:04:05,450 - INFO -   Latest:  0.2.41 = [0, 2, 41]
+2026-03-11 13:04:05,450 - INFO -   Is newer? False
+2026-03-11 13:04:05,450 - INFO - Already on latest version: 0.2.41
+2026-03-11 13:04:06,250 - INFO - Loaded saved credentials
+2026-03-11 13:04:07,380 - INFO - Saved credentials (Remember Me checked)
+2026-03-11 15:25:08,149 - INFO - ============================================================
+2026-03-11 15:25:08,151 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-11 15:25:08,152 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 15:25:08,152 - INFO - ============================================================
+2026-03-11 15:25:08,154 - INFO - ============================================================
+2026-03-11 15:25:08,155 - INFO - SMART Assistant v2.0.5 Starting
+2026-03-11 15:25:08,155 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\logs\smart_assistant_2026-03-11_15-25-08.log
+2026-03-11 15:25:08,155 - INFO - ============================================================
+2026-03-11 15:25:08,927 - INFO - [ICON] Setting window icon...
+2026-03-11 15:25:08,928 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 15:25:08,931 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 15:25:08,931 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 15:25:08,959 - INFO - [ICON] Path 2: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 15:25:09,006 - INFO - Loading settings...
+2026-03-11 15:25:09,007 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-11 15:25:09,007 - INFO - Auto-updater enabled
+2026-03-11 15:25:09,007 - INFO - Current version: 0.2.41
+2026-03-11 15:25:09,007 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 15:25:09,517 - INFO - Starting update check...
+2026-03-11 15:25:09,518 - INFO - Checking for updates...
+2026-03-11 15:25:09,518 - INFO - Current version: 0.2.41
+2026-03-11 15:25:09,519 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 15:25:09,943 - INFO - Response status: 200
+2026-03-11 15:25:09,943 - INFO - Latest version on GitHub: 0.2.41
+2026-03-11 15:25:09,944 - INFO - Version comparison:
+2026-03-11 15:25:09,944 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-11 15:25:09,944 - INFO -   Latest:  0.2.41 = [0, 2, 41]
+2026-03-11 15:25:09,944 - INFO -   Is newer? False
+2026-03-11 15:25:09,945 - INFO - Already on latest version: 0.2.41
+2026-03-11 15:25:10,913 - INFO - Loaded saved credentials
+2026-03-11 15:25:12,088 - INFO - Saved credentials (Remember Me checked)
+2026-03-11 15:25:34,784 - INFO - ============================================================
+2026-03-11 15:25:34,784 - INFO - USER SCAN STARTED - Inactive 120+ days
+2026-03-11 15:25:34,785 - INFO - Settings: Headless=False, Speed=1.0, Environment=Production
+2026-03-11 15:25:34,785 - INFO - Custom filters: ['rradawec', '0000hwoods']
+2026-03-11 15:25:34,785 - INFO - ============================================================
+2026-03-11 15:27:20,078 - INFO - Settings saved to: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant_settings.json
+2026-03-11 15:27:20,079 - INFO -   Dark Mode: True
+2026-03-11 15:27:20,079 - INFO -   Headless: False
+2026-03-11 15:27:20,080 - INFO -   Speed: 1.0
+2026-03-11 15:27:20,080 - INFO -   Environment: Production
+2026-03-11 15:30:18,208 - INFO - ============================================================
+2026-03-11 15:30:18,208 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-11 15:30:18,208 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-11 15:30:18,208 - INFO - ============================================================
+2026-03-11 15:30:18,294 - INFO - [ICON] Setting window icon...
+2026-03-11 15:30:18,295 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-11 15:30:18,297 - INFO - [ICON] Trying 3 icon paths...
+2026-03-11 15:30:18,297 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-11 15:30:18,298 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI254282\smartlogosmall.png
+2026-03-11 15:30:18,298 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-11 15:30:18,357 - INFO - Loading settings...
+2026-03-11 15:30:18,358 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-11 15:30:18,358 - INFO - Auto-updater enabled
+2026-03-11 15:30:18,358 - INFO - Current version: 0.2.41
+2026-03-11 15:30:18,358 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-11 15:30:18,867 - INFO - Starting update check...
+2026-03-11 15:30:18,869 - INFO - Checking for updates...
+2026-03-11 15:30:18,869 - INFO - Current version: 0.2.41
+2026-03-11 15:30:18,869 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-11 15:30:19,305 - INFO - Response status: 200
+2026-03-11 15:30:19,305 - INFO - Latest version on GitHub: 0.2.42
+2026-03-11 15:30:19,305 - INFO - Version comparison:
+2026-03-11 15:30:19,305 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-11 15:30:19,305 - INFO -   Latest:  0.2.42 = [0, 2, 42]
+2026-03-11 15:30:19,306 - INFO -   Is newer? True
+2026-03-11 15:30:19,306 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.42/SMART_Assistant.exe
+2026-03-11 15:30:19,898 - INFO - Loaded saved credentials
+2026-03-11 15:30:22,478 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.42/SMART_Assistant.exe
+2026-03-11 15:30:23,336 - INFO - Download size: 31174632 bytes
+2026-03-11 15:30:23,336 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-03-11 15:30:23,337 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-03-11 15:30:23,338 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-03-11 15:30:24,931 - INFO - Download complete: 31174632 bytes
+2026-03-13 10:13:51,195 - INFO - ============================================================
+2026-03-13 10:13:51,197 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-13 10:13:51,198 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-13 10:13:51,199 - INFO - ============================================================
+2026-03-13 10:13:51,372 - INFO - [ICON] Setting window icon...
+2026-03-13 10:13:51,374 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-13 10:13:51,380 - INFO - [ICON] Trying 3 icon paths...
+2026-03-13 10:13:51,380 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-13 10:13:51,381 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI174802\smartlogosmall.png
+2026-03-13 10:13:51,381 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-13 10:13:51,467 - INFO - Loading settings...
+2026-03-13 10:13:51,468 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-13 10:13:51,468 - INFO - Auto-updater enabled
+2026-03-13 10:13:51,469 - INFO - Current version: 0.2.41
+2026-03-13 10:13:51,469 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-13 10:13:51,980 - INFO - Starting update check...
+2026-03-13 10:13:51,982 - INFO - Checking for updates...
+2026-03-13 10:13:51,982 - INFO - Current version: 0.2.41
+2026-03-13 10:13:51,983 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-13 10:13:52,651 - INFO - Response status: 200
+2026-03-13 10:13:52,651 - INFO - Latest version on GitHub: 0.2.42
+2026-03-13 10:13:52,652 - INFO - Version comparison:
+2026-03-13 10:13:52,652 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-13 10:13:52,653 - INFO -   Latest:  0.2.42 = [0, 2, 42]
+2026-03-13 10:13:52,653 - INFO -   Is newer? True
+2026-03-13 10:13:52,653 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.42/SMART_Assistant.exe
+2026-03-13 10:13:53,677 - INFO - Loaded saved credentials
+2026-03-13 10:14:11,442 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.42/SMART_Assistant.exe
+2026-03-13 10:14:12,476 - INFO - Download size: 31174632 bytes
+2026-03-13 10:14:12,477 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-03-13 10:14:12,477 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-03-13 10:14:12,478 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-03-13 10:14:17,209 - INFO - Download complete: 31174632 bytes
+2026-03-13 10:14:34,177 - INFO - ============================================================
+2026-03-13 10:14:34,178 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-13 10:14:34,178 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-13 10:14:34,178 - INFO - ============================================================
+2026-03-13 10:14:34,320 - INFO - [ICON] Setting window icon...
+2026-03-13 10:14:34,321 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-13 10:14:34,325 - INFO - [ICON] Trying 3 icon paths...
+2026-03-13 10:14:34,326 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-13 10:14:34,326 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI82242\smartlogosmall.png
+2026-03-13 10:14:34,327 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-13 10:14:34,367 - INFO - Loading settings...
+2026-03-13 10:14:34,369 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-13 10:14:34,369 - INFO - Auto-updater enabled
+2026-03-13 10:14:34,369 - INFO - Current version: 0.2.41
+2026-03-13 10:14:34,369 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-13 10:14:34,869 - INFO - Starting update check...
+2026-03-13 10:14:34,870 - INFO - Checking for updates...
+2026-03-13 10:14:34,870 - INFO - Current version: 0.2.41
+2026-03-13 10:14:34,870 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-13 10:14:35,310 - INFO - Response status: 200
+2026-03-13 10:14:35,310 - INFO - Latest version on GitHub: 0.2.42
+2026-03-13 10:14:35,310 - INFO - Version comparison:
+2026-03-13 10:14:35,310 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-13 10:14:35,310 - INFO -   Latest:  0.2.42 = [0, 2, 42]
+2026-03-13 10:14:35,311 - INFO -   Is newer? True
+2026-03-13 10:14:35,311 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.42/SMART_Assistant.exe
+2026-03-13 10:14:35,896 - INFO - Loaded saved credentials
+2026-03-13 10:14:39,668 - INFO - Starting download from: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.42/SMART_Assistant.exe
+2026-03-13 10:14:40,250 - INFO - Download size: 31174632 bytes
+2026-03-13 10:14:40,250 - INFO - Current EXE: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\SMART_Assistant.exe
+2026-03-13 10:14:40,250 - INFO - Current directory: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere
+2026-03-13 10:14:40,251 - INFO - Downloading to: C:\Users\F_Johnson\AppData\Local\Temp\SMART_Assistant_NEW.exe
+2026-03-13 10:14:42,101 - INFO - Download complete: 31174632 bytes
+2026-03-13 10:14:54,497 - INFO - ============================================================
+2026-03-13 10:14:54,497 - INFO - SMART Assistant v0.2.41 Starting...
+2026-03-13 10:14:54,497 - INFO - Log file: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smart_assistant.log
+2026-03-13 10:14:54,497 - INFO - ============================================================
+2026-03-13 10:14:54,663 - INFO - [ICON] Setting window icon...
+2026-03-13 10:14:54,663 - INFO - [ICON] Set Windows AppUserModelID
+2026-03-13 10:14:54,667 - INFO - [ICON] Trying 3 icon paths...
+2026-03-13 10:14:54,667 - INFO - [ICON] Path 1: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\Programstest\smartlogosmall.png
+2026-03-13 10:14:54,667 - INFO - [ICON] Path 2: C:\Users\F_Johnson\AppData\Local\Temp\_MEI250322\smartlogosmall.png
+2026-03-13 10:14:54,667 - INFO - [ICON] Path 3: C:\Users\F_Johnson\OneDrive - SMS Holdings Corporation\Desktop\SMART-Assistant\WorkinHere\smartlogosmall.png
+2026-03-13 10:14:54,704 - INFO - Loading settings...
+2026-03-13 10:14:54,704 - INFO - Settings loaded - Headless: False, Speed: 1.0, Environment: Production
+2026-03-13 10:14:54,704 - INFO - Auto-updater enabled
+2026-03-13 10:14:54,704 - INFO - Current version: 0.2.41
+2026-03-13 10:14:54,705 - INFO - GitHub: ohhhthehorror/SMART-Assistant-Publish
+2026-03-13 10:14:55,205 - INFO - Starting update check...
+2026-03-13 10:14:55,206 - INFO - Checking for updates...
+2026-03-13 10:14:55,206 - INFO - Current version: 0.2.41
+2026-03-13 10:14:55,206 - INFO - Checking: https://api.github.com/repos/ohhhthehorror/SMART-Assistant-Publish/releases/latest
+2026-03-13 10:14:55,634 - INFO - Response status: 200
+2026-03-13 10:14:55,634 - INFO - Latest version on GitHub: 0.2.42
+2026-03-13 10:14:55,635 - INFO - Version comparison:
+2026-03-13 10:14:55,635 - INFO -   Current: 0.2.41 = [0, 2, 41]
+2026-03-13 10:14:55,635 - INFO -   Latest:  0.2.42 = [0, 2, 42]
+2026-03-13 10:14:55,635 - INFO -   Is newer? True
+2026-03-13 10:14:55,635 - INFO - EXE found: https://github.com/ohhhthehorror/SMART-Assistant-Publish/releases/download/v0.2.42/SMART_Assistant.exe
+2026-03-13 10:14:56,240 - INFO - Loaded saved credentials

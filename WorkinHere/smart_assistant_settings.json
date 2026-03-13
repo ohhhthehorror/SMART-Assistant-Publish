@@ -1,0 +1,12 @@
+{
+  "is_dark_mode": true,
+  "headless_mode": false,
+  "automation_speed": 1.0,
+  "environment": "Production",
+  "last_scan_time": 84.02659487724304,
+  "last_scan_pages": 17,
+  "custom_filters": [
+    "rradawec",
+    "0000hwoods"
+  ]
+}
